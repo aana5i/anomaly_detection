@@ -1,2 +1,3 @@
 __pycache__/**
 venv-mt/**
+data/fr.openfoodfacts.org.products.csv
