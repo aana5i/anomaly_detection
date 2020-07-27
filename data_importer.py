@@ -1,4 +1,6 @@
 import pandas as pd
+import scipy
+from scipy import spatial
 
 
 class DataImporter:
@@ -83,16 +85,78 @@ class DataImporter:
         :param column:
         :return:
         '''
+        '''
+        look for the most similar row
+        comparer avec les aliments de la meme categorie
+        '''
         self.fill_na()
-        for counter, column in enumerate(self.columns):
-            if column != 'energy-kcal_100g':
-                df = self.random_data[self.random_data[column] > 100]
-                print(df)
-                # comparer les valeurs de visue puis par rapport aux autres row similaires. sans la valeur qui est trop haute
-                if counter == 0:
-                    df.to_csv('data/out.csv', mode='a', index=False, encoding='utf-8')
-                else:
-                    df.to_csv('data/out.csv', mode='a', header=False, index=False, encoding='utf-8')
+        i = 0
+        while i <= len(self.columns) - 1:
+            try:
+                for counter, column in enumerate(self.columns):
+                    if column != 'energy-kcal_100g':
+                        input('next: ')
+                        df = self.random_data[self.random_data[column] > 100]
+                        save_column = df[column]
+
+                        # tmp_data = tmp_data[tmp_data['categories'].str.contains(df['categories'])]
+
+                        df = df.loc[:, df.columns != column]
+                        with pd.option_context('display.max_rows', None, 'display.max_columns', None):
+                            for index in df.index:
+                                print('------------')
+                                # print(save_column[save_column.index == index])
+                                # print(df[df.index == index])
+                                tmp_data = self.random_data[self.random_data['categories'].str.contains(df[df.index == index]['categories'].values[0])].loc[:, self.random_data.columns != column]
+                                tmp_data = tmp_data.drop(index)
+                                print(df.loc[index]['url'])
+
+                                print('\n')
+                                _toMean = []
+                                for _ in range(5):
+
+                                    ary = spatial.distance.cdist(tmp_data.loc[:, tmp_data.dtypes == 'float64'], df.loc[:, df.dtypes == 'float64'], metric='euclidean')
+                                    try:
+                                        _score = 0
+                                        print(f'{column}::         {save_column[save_column.index == index].values[0]} / {self.random_data[self.random_data.index.values == tmp_data[ary == ary.min()].index.values][column].values[0]}')
+                                        tmp_row = tmp_data[ary == ary.min()]
+                                        for _column in self.columns:
+                                            if _column != column:
+                                                _val = df[df.index == index][_column].values[0]
+                                                _compare = tmp_row[_column].values[0]
+                                                print(f'{_column}::         {_val} / {_compare}')
+                                                _up, _down = self.get_around_values(_val, _column)
+                                                if _down <= _compare <= _up:
+                                                    _score += 1
+
+                                        _toMean.append(self.random_data[self.random_data.index.values == tmp_data[ary == ary.min()].index.values][column].values[0])
+
+                                        tmp_data = tmp_data.drop(tmp_row.index)
+                                        print('\n*********\n')
+
+                                    except:
+                                        print('-')
+                                    try:
+                                        if _score >= len(self.columns) - 1:
+                                            print(_toMean)
+                                    except:
+                                        continue
+
+                                    '''
+                                     check si les autres valeurs sont egales, si elles le sont, modifier la valeurs de la column cible pour qu'elle soit egale a celle comparer
+                                     sinon verifier si la valeur de la column cible est egale a la valeur comparer || diviser par 10,100
+                                    '''
+
+                                print('------------\n')
+                        i += 1
+            except ValueError as e:
+                print(e)
+
+                    # comparer les valeurs de visue puis par rapport aux autres row similaires. sans la valeur qui est trop haute
+                    # if counter == 0:
+                    #     df.to_csv('data/out.csv', mode='a', index=False, encoding='utf-8')
+                    # else:
+                    #     df.to_csv('data/out.csv', mode='a', header=False, index=False, encoding='utf-8')
         # df = pd.read_csv('data/out.csv', header=False, encoding='utf-8')
         # print(df)
 
@@ -110,6 +174,12 @@ class DataImporter:
     def save_new_dataset(self):
         self.fill_na()
         self.random_data.to_csv('preprocess_2.csv')
+
+    @staticmethod
+    def get_around_values(value, col, percent=90):
+        _up = [100.00 if col != 'energy-kcal_100g' and round(value + (value - ((percent * value) / 100.0)), 2) > 100 else round(value + (value - ((percent * value) / 100.0)), 2)][0]
+        _down = round(value - (value - ((percent * value) / 100.0)), 2)
+        return _up, _down
 
 '''
 USAGE
