@@ -1,0 +1,100 @@
+proteins_100g
+-----------------------
+first quarter: 1.5
+first quarter - quarter limit: -15.0, 0.0%
+second quarter: 6.1
+third quarter: 12.5 
+third quarter + quarter limit: 29.0
+quarter limit: 16.5
+over q3+qv_limit: 13695, 2.55%
+-----------------------
+fat_100g
+-----------------------
+first quarter: 1.0
+first quarter - quarter limit: -30.5, 0.0%
+second quarter: 7.8
+third quarter: 22.0 
+third quarter + quarter limit: 53.5
+quarter limit: 31.5
+over q3+qv_limit: 16960, 3.16%
+-----------------------
+saturated-fat_100g
+-----------------------
+first quarter: 0.2
+first quarter - quarter limit: -11.5, 0.0%
+second quarter: 2.0
+third quarter: 8.0 
+third quarter + quarter limit: 19.7
+quarter limit: 11.7
+over q3+qv_limit: 33132, 6.17%
+-----------------------
+sodium_100g
+-----------------------
+first quarter: 0.02
+first quarter - quarter limit: -0.73, 0.0%
+second quarter: 0.2
+third quarter: 0.52 
+third quarter + quarter limit: 1.27
+quarter limit: 0.75
+over q3+qv_limit: 32903, 6.12%
+-----------------------
+fruits-vegetables-nuts-dried_100g
+-----------------------
+first quarter: 0.0
+first quarter - quarter limit: 0.0, 0.0%
+second quarter: 0.0
+third quarter: 0.0 
+third quarter + quarter limit: 0.0
+quarter limit: 0.0
+over q3+qv_limit: 133, 0.02%
+-----------------------
+carbohydrates_100g
+-----------------------
+first quarter: 2.7
+first quarter - quarter limit: -72.44999999999999, 0.0%
+second quarter: 14.0
+third quarter: 52.8 
+third quarter + quarter limit: 127.94999999999999
+quarter limit: 75.14999999999999
+over q3+qv_limit: 0, 0.0%
+-----------------------
+salt_100g
+-----------------------
+first quarter: 0.0499999999999999
+first quarter - quarter limit: -1.8250000000000006, 0.0%
+second quarter: 0.5
+third quarter: 1.3 
+third quarter + quarter limit: 3.1750000000000007
+quarter limit: 1.8750000000000004
+over q3+qv_limit: 32901, 6.12%
+-----------------------
+sugars_100g
+-----------------------
+first quarter: 0.7
+first quarter - quarter limit: -28.250000000000004, 0.0%
+second quarter: 3.6
+third quarter: 20.0 
+third quarter + quarter limit: 48.95
+quarter limit: 28.950000000000003
+over q3+qv_limit: 51299, 9.55%
+-----------------------
+fiber_100g
+-----------------------
+first quarter: 0.0
+first quarter - quarter limit: 0.0, 0.0%
+second quarter: 0.0
+third quarter: 0.0 
+third quarter + quarter limit: 0.0
+quarter limit: 0.0
+over q3+qv_limit: 97874, 18.22%
+-----------------------
+energy-kcal_100g
+-----------------------
+first quarter: 343.0
+first quarter - quarter limit: -1614.5, 0.0%
+second quarter: 1029.0
+third quarter: 1648.0 
+third quarter + quarter limit: 3605.5
+quarter limit: 1957.5
+over q3+qv_limit: 5199, 0.97%
+-----------------------

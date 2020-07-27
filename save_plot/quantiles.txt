@@ -1,0 +1,3200 @@
+proteins_100g
+1.5
+-----------------------
+Compote de Pomme
+Aliments et boissons à base de végétaux, Aliments d'origine végétale, Desserts, Aliments à base de fruits et de légumes, Fruits et produits dérivés, Produits déshydratés, Produits lyophilisés à reconstituer, Compotes, Compotes de pomme
+http://world-en.openfoodfacts.org/product/0000009125124/compote-de-pomme-mx3
+proteins_100g                           1.500
+fat_100g                                0.500
+saturated-fat_100g                      0.100
+sodium_100g                             0.008
+fruits-vegetables-nuts-dried_100g       0.000
+carbohydrates_100g                     93.000
+salt_100g                               0.020
+sugars_100g                            66.000
+fiber_100g                              0.000
+energy-kcal_100g                     1577.000
+Name: 124, dtype: float64
+-----------------------
+-----------------------
+Décors sucrés
+Undefined
+http://world-en.openfoodfacts.org/product/0000010217610/decors-sucres-alice-delice
+proteins_100g                           1.5
+fat_100g                                0.0
+saturated-fat_100g                      0.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     96.5
+salt_100g                               0.0
+sugars_100g                            96.2
+fiber_100g                              0.0
+energy-kcal_100g                     1640.0
+Name: 159, dtype: float64
+-----------------------
+-----------------------
+Décros sucrés
+Undefined
+http://world-en.openfoodfacts.org/product/0000010217627/decros-sucres-kitchen-academy
+proteins_100g                           1.5
+fat_100g                                0.0
+saturated-fat_100g                      0.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     96.5
+salt_100g                               0.0
+sugars_100g                            96.5
+fiber_100g                              0.0
+energy-kcal_100g                     1640.0
+Name: 160, dtype: float64
+-----------------------
+-----------------------
+Purée de potiron et oignons rissolés
+Undefined
+http://world-en.openfoodfacts.org/product/0000069067556/puree-de-potiron-et-oignons-rissoles
+proteins_100g                          1.50
+fat_100g                               2.10
+saturated-fat_100g                     0.90
+sodium_100g                            0.28
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                     8.60
+salt_100g                              0.70
+sugars_100g                            3.60
+fiber_100g                             0.00
+energy-kcal_100g                     268.00
+Name: 255, dtype: float64
+-----------------------
+-----------------------
+Organic tomato sauce with basil
+Groceries,Sauces,Tomato sauces,fr:Sauces tomates au basilic
+http://world-en.openfoodfacts.org/product/00005003/organic-tomato-sauce-with-basil-kazidomi
+proteins_100g                          1.50
+fat_100g                               3.80
+saturated-fat_100g                     1.00
+sodium_100g                            0.24
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                     4.50
+salt_100g                              0.60
+sugars_100g                            4.20
+fiber_100g                             0.00
+energy-kcal_100g                     259.00
+Name: 352, dtype: float64
+-----------------------
+proteins_100g
+6.1
+-----------------------
+Donut's nature sucre
+Snacks, Snacks sucrés, Biscuits et gâteaux, Gâteaux, Donuts
+http://world-en.openfoodfacts.org/product/0000023375734/donut-s-nature-sucre
+proteins_100g                           6.10
+fat_100g                               24.00
+saturated-fat_100g                     10.00
+sodium_100g                             0.68
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     44.00
+salt_100g                               1.70
+sugars_100g                            17.00
+fiber_100g                              0.00
+energy-kcal_100g                     1745.00
+Name: 189, dtype: float64
+-----------------------
+-----------------------
+Asiapfanne xian style
+Undefined
+http://world-en.openfoodfacts.org/product/0000069016240/asiapfanne-xian-style
+proteins_100g                          6.100
+fat_100g                               1.200
+saturated-fat_100g                     0.500
+sodium_100g                            0.328
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                     9.700
+salt_100g                              0.820
+sugars_100g                            2.500
+fiber_100g                             0.000
+energy-kcal_100g                     322.000
+Name: 240, dtype: float64
+-----------------------
+-----------------------
+Bûche roulée Élégance
+Desserts, Surgelés, Biscuits et gâteaux, Desserts glacés, , Gâteaux, Bûches glacées
+http://world-en.openfoodfacts.org/product/0000069068812/buche-roulee-elegance
+proteins_100g                           6.100
+fat_100g                               28.200
+saturated-fat_100g                     18.460
+sodium_100g                             0.144
+fruits-vegetables-nuts-dried_100g       0.000
+carbohydrates_100g                     29.400
+salt_100g                               0.360
+sugars_100g                            24.300
+fiber_100g                              0.000
+energy-kcal_100g                     1686.000
+Name: 261, dtype: float64
+-----------------------
+-----------------------
+Cookies Stem Ginger
+Snacks, Snacks sucrés, Biscuits et gâteaux, Biscuits, Cookies, Biscuits à l'avoine
+http://world-en.openfoodfacts.org/product/00011754/cookies-stem-ginger-marks-spencer
+proteins_100g                           6.100
+fat_100g                               20.800
+saturated-fat_100g                     13.700
+sodium_100g                             0.232
+fruits-vegetables-nuts-dried_100g       0.000
+carbohydrates_100g                     63.600
+salt_100g                               0.580
+sugars_100g                            31.800
+fiber_100g                              3.300
+energy-kcal_100g                     1979.000
+Name: 467, dtype: float64
+-----------------------
+-----------------------
+Stem Ginger Cookies
+Snacks, Snacks sucrés, Biscuits et gâteaux, Biscuits, Cookies
+http://world-en.openfoodfacts.org/product/00011778/stem-ginger-cookies-marks-spencer
+proteins_100g                         6.100
+fat_100g                             13.300
+saturated-fat_100g                    7.000
+sodium_100g                           0.332
+fruits-vegetables-nuts-dried_100g     0.000
+carbohydrates_100g                   70.200
+salt_100g                             0.830
+sugars_100g                          35.700
+fiber_100g                            2.500
+energy-kcal_100g                      0.000
+Name: 468, dtype: float64
+-----------------------
+proteins_100g
+12.5
+-----------------------
+&quot;Baguette Lyonnais&quot;
+Undefined
+http://world-en.openfoodfacts.org/product/0000000001151/baguette-lyonnais
+proteins_100g                          12.50
+fat_100g                                9.40
+saturated-fat_100g                      4.50
+sodium_100g                             0.36
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     41.00
+salt_100g                               0.90
+sugars_100g                             2.00
+fiber_100g                              0.00
+energy-kcal_100g                     1213.00
+Name: 8, dtype: float64
+-----------------------
+-----------------------
+Ciabatta Roma
+Undefined
+http://world-en.openfoodfacts.org/product/0000000002417/ciabatta-roma
+proteins_100g                         12.500
+fat_100g                               4.500
+saturated-fat_100g                     2.100
+sodium_100g                            1.804
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                    31.500
+salt_100g                              4.510
+sugars_100g                            1.000
+fiber_100g                             0.000
+energy-kcal_100g                     904.000
+Name: 22, dtype: float64
+-----------------------
+-----------------------
+Baguette Lyonnais &quot;Petit prix&quot;
+Undefined
+http://world-en.openfoodfacts.org/product/0000000011150/baguette-lyonnais-petit-prix
+proteins_100g                          12.50
+fat_100g                                4.50
+saturated-fat_100g                      4.50
+sodium_100g                             0.92
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     41.00
+salt_100g                               2.30
+sugars_100g                             2.00
+fiber_100g                              0.00
+energy-kcal_100g                     1213.00
+Name: 48, dtype: float64
+-----------------------
+-----------------------
+Oven Toasted Old Fashioned Organic Oats
+Epicerie, Sauces, Sauces barbecue, Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Cereals and their products
+http://world-en.openfoodfacts.org/product/00048569/oven-toasted-old-fashioned-organic-oats-marks-spencer
+proteins_100g                          12.5
+fat_100g                                7.5
+saturated-fat_100g                      0.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     67.5
+salt_100g                               0.0
+sugars_100g                             2.5
+fiber_100g                             10.0
+energy-kcal_100g                     1569.0
+Name: 828, dtype: float64
+-----------------------
+-----------------------
+Ultimate dark 95% cocoa
+Snacks, Sweet snacks, Chocolates, Dark chocolates
+http://world-en.openfoodfacts.org/product/0009542045371/ultimate-dark-95-cocoa-lindt
+proteins_100g                          12.50
+fat_100g                               56.90
+saturated-fat_100g                     33.80
+sodium_100g                             0.00
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     26.20
+salt_100g                               0.00
+sugars_100g                             3.12
+fiber_100g                              0.00
+energy-kcal_100g                     2590.00
+Name: 1067, dtype: float64
+-----------------------
+proteins_100g
+100
+-----------------------
+Diet ginseng & honey green tea
+Undefined
+http://world-en.openfoodfacts.org/product/0020735093207/diet-ginseng-honey-green-tea-turkey-hill
+proteins_100g                        100.000000
+fat_100g                               0.000000
+saturated-fat_100g                     0.000000
+sodium_100g                            0.083333
+fruits-vegetables-nuts-dried_100g      0.000000
+carbohydrates_100g                     0.000000
+salt_100g                              0.208333
+sugars_100g                            0.000000
+fiber_100g                             0.000000
+energy-kcal_100g                     174.000000
+Name: 2543, dtype: float64
+-----------------------
+-----------------------
+Papattes
+Undefined
+http://world-en.openfoodfacts.org/product/0132075794/papattes
+proteins_100g                        100.0
+fat_100g                               0.0
+saturated-fat_100g                     0.0
+sodium_100g                            0.0
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                     1.0
+salt_100g                              0.0
+sugars_100g                            1.0
+fiber_100g                             0.0
+energy-kcal_100g                       0.0
+Name: 13336, dtype: float64
+-----------------------
+-----------------------
+Mooncake
+Undefined
+http://world-en.openfoodfacts.org/product/01874594/mooncake
+proteins_100g                        100.0
+fat_100g                               0.0
+saturated-fat_100g                     0.0
+sodium_100g                            0.0
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                     0.0
+salt_100g                              0.0
+sugars_100g                            0.0
+fiber_100g                             0.0
+energy-kcal_100g                       0.0
+Name: 13654, dtype: float64
+-----------------------
+-----------------------
+Tom de savoie
+Undefined
+http://world-en.openfoodfacts.org/product/0200643021060/tom-de-savoie
+proteins_100g                         100.0000
+fat_100g                                0.0010
+saturated-fat_100g                      0.0000
+sodium_100g                             0.0816
+fruits-vegetables-nuts-dried_100g       0.0000
+carbohydrates_100g                      0.8000
+salt_100g                               0.2040
+sugars_100g                             0.0001
+fiber_100g                              0.0000
+energy-kcal_100g                     2322.0000
+Name: 14783, dtype: float64
+-----------------------
+-----------------------
+Sardine ocean
+Undefined
+http://world-en.openfoodfacts.org/product/0203084042113/sardine-ocean
+proteins_100g                        100.0
+fat_100g                               1.0
+saturated-fat_100g                     0.0
+sodium_100g                            0.0
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                     0.0
+salt_100g                              0.0
+sugars_100g                            0.0
+fiber_100g                             0.0
+energy-kcal_100g                     418.0
+Name: 17076, dtype: float64
+-----------------------
+fat_100g
+1.0
+-----------------------
+Bonbon fourres
+Undefined
+http://world-en.openfoodfacts.org/product/0000000620406/bonbon-fourres
+proteins_100g                        1.0
+fat_100g                             1.0
+saturated-fat_100g                   1.0
+sodium_100g                          0.4
+fruits-vegetables-nuts-dried_100g    0.0
+carbohydrates_100g                   1.0
+salt_100g                            1.0
+sugars_100g                          1.0
+fiber_100g                           0.0
+energy-kcal_100g                     4.0
+Name: 100, dtype: float64
+-----------------------
+-----------------------
+Glaçage fondant
+Undefined
+http://world-en.openfoodfacts.org/product/0000010166352/glacage-fondant-alice-delice
+proteins_100g                           0.0
+fat_100g                                1.0
+saturated-fat_100g                      0.5
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     86.0
+salt_100g                               0.0
+sugars_100g                            75.0
+fiber_100g                              0.0
+energy-kcal_100g                     1443.0
+Name: 131, dtype: float64
+-----------------------
+-----------------------
+Glaçage fondant
+Undefined
+http://world-en.openfoodfacts.org/product/0000010166390/glacage-fondant
+proteins_100g                           0.0
+fat_100g                                1.0
+saturated-fat_100g                      0.5
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     86.0
+salt_100g                               0.0
+sugars_100g                            75.0
+fiber_100g                              0.0
+energy-kcal_100g                     1456.0
+Name: 132, dtype: float64
+-----------------------
+-----------------------
+Buchette Bout Biseaux
+Undefined
+http://world-en.openfoodfacts.org/product/0000661004928/buchette-bout-biseaux
+proteins_100g                           9.8
+fat_100g                                1.0
+saturated-fat_100g                      0.2
+sodium_100g                             0.6
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     57.5
+salt_100g                               1.5
+sugars_100g                             1.8
+fiber_100g                              0.0
+energy-kcal_100g                     1192.0
+Name: 384, dtype: float64
+-----------------------
+-----------------------
+Pétales de maïs
+Aliments et boissons à base de végétaux, Aliments d'origine végétale, Petit-déjeuners, Céréales et pommes de terre, Céréales et dérivés, Céréales pour petit-déjeuner, Flocons, Flocons de céréales, Corn-flakes
+http://world-en.openfoodfacts.org/product/0002000000578/petales-de-mais
+proteins_100g                           7.30
+fat_100g                                1.00
+saturated-fat_100g                      0.30
+sodium_100g                             0.12
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     81.00
+salt_100g                               0.30
+sugars_100g                             5.50
+fiber_100g                              0.00
+energy-kcal_100g                     1540.00
+Name: 556, dtype: float64
+-----------------------
+fat_100g
+7.8
+-----------------------
+Jumbo Roast Drumsticks
+Undefined
+http://world-en.openfoodfacts.org/product/00144117/jumbo-roast-drumsticks
+proteins_100g                         27.00
+fat_100g                               7.80
+saturated-fat_100g                     1.90
+sodium_100g                            0.30
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                     0.50
+salt_100g                              0.75
+sugars_100g                            0.40
+fiber_100g                             0.00
+energy-kcal_100g                     753.00
+Name: 1722, dtype: float64
+-----------------------
+-----------------------
+Chicken and bacon totelloni
+Undefined
+http://world-en.openfoodfacts.org/product/00164016/chicken-and-bacon-totelloni-by-sainsbury-s
+proteins_100g                          10.300
+fat_100g                                7.800
+saturated-fat_100g                      3.200
+sodium_100g                             0.348
+fruits-vegetables-nuts-dried_100g       0.000
+carbohydrates_100g                     34.700
+salt_100g                               0.870
+sugars_100g                             1.100
+fiber_100g                              0.000
+energy-kcal_100g                     1067.000
+Name: 2199, dtype: float64
+-----------------------
+-----------------------
+MINT Assortment
+Undefined
+http://world-en.openfoodfacts.org/product/00375849/mint-assortment
+proteins_100g                           0.60
+fat_100g                                7.80
+saturated-fat_100g                      4.20
+sodium_100g                             0.28
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     86.10
+salt_100g                               0.70
+sugars_100g                            58.20
+fiber_100g                              0.00
+energy-kcal_100g                     1745.00
+Name: 4571, dtype: float64
+-----------------------
+-----------------------
+Beef Lasagna
+Undefined
+http://world-en.openfoodfacts.org/product/00489898/beef-lasagna-marks-spencer
+proteins_100g                          8.20
+fat_100g                               7.80
+saturated-fat_100g                     3.00
+sodium_100g                            0.30
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    11.90
+salt_100g                              0.75
+sugars_100g                            2.80
+fiber_100g                             0.00
+energy-kcal_100g                     644.00
+Name: 6232, dtype: float64
+-----------------------
+-----------------------
+2 fillet steaks
+Undefined
+http://world-en.openfoodfacts.org/product/00532631/2-fillet-steaks-marks-and-spencer
+proteins_100g                         20.90
+fat_100g                               7.80
+saturated-fat_100g                     3.80
+sodium_100g                            0.04
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                     0.00
+salt_100g                              0.10
+sugars_100g                            0.00
+fiber_100g                             0.00
+energy-kcal_100g                     649.00
+Name: 6721, dtype: float64
+-----------------------
+fat_100g
+22.0
+-----------------------
+Tarte noix de coco
+Tartes, Tartes sucrées, Tartes à la noix de coco
+http://world-en.openfoodfacts.org/product/0000000001281/tarte-noix-de-coco-crous-resto
+proteins_100g                           4.60
+fat_100g                               22.00
+saturated-fat_100g                     15.50
+sodium_100g                             0.04
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     27.30
+salt_100g                               0.10
+sugars_100g                            21.90
+fiber_100g                              4.40
+energy-kcal_100g                     1594.00
+Name: 10, dtype: float64
+-----------------------
+-----------------------
+Reese's
+Undefined
+http://world-en.openfoodfacts.org/product/0000034248010/reese-s
+proteins_100g                          5.00
+fat_100g                              22.00
+saturated-fat_100g                     8.00
+sodium_100g                            0.24
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    22.00
+salt_100g                              0.60
+sugars_100g                           22.00
+fiber_100g                             0.00
+energy-kcal_100g                     444.00
+Name: 203, dtype: float64
+-----------------------
+-----------------------
+Camenbert de Normandie
+Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages à pâte molle à croûte fleurie
+http://world-en.openfoodfacts.org/product/0002000000707/camenbert-de-normandie-monoprix-gourmet
+proteins_100g                          20.0
+fat_100g                               22.0
+saturated-fat_100g                     14.0
+sodium_100g                             0.8
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                      0.0
+salt_100g                               2.0
+sugars_100g                             0.0
+fiber_100g                              0.0
+energy-kcal_100g                     1163.0
+Name: 562, dtype: float64
+-----------------------
+-----------------------
+Sablés  chocolat au lait
+Undefined
+http://world-en.openfoodfacts.org/product/0002000005924/sables-chocolat-au-lait
+proteins_100g                           8.10
+fat_100g                               22.00
+saturated-fat_100g                     12.00
+sodium_100g                             0.24
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     63.00
+salt_100g                               0.60
+sugars_100g                            27.00
+fiber_100g                              0.00
+energy-kcal_100g                     2046.00
+Name: 624, dtype: float64
+-----------------------
+-----------------------
+Macarons
+Snacks, Desserts, Snacks sucrés, Biscuits et gâteaux, Pâtisseries, Macarons
+http://world-en.openfoodfacts.org/product/0008563994613/macarons-macarons-de-pauline
+proteins_100g                           7.500
+fat_100g                               22.000
+saturated-fat_100g                      5.100
+sodium_100g                             0.036
+fruits-vegetables-nuts-dried_100g       0.000
+carbohydrates_100g                     58.000
+salt_100g                               0.090
+sugars_100g                            51.000
+fiber_100g                              3.000
+energy-kcal_100g                     1933.000
+Name: 992, dtype: float64
+-----------------------
+fat_100g
+100
+-----------------------
+Huile de noix
+Aliments et boissons à base de végétaux, Aliments d'origine végétale, Matières grasses, Fruits à coques et dérivés, Matières grasses végétales, Huiles, Huiles de fruits à coques, Huiles de noix
+http://world-en.openfoodfacts.org/product/00040716/huile-de-noix-la-tourangelle
+proteins_100g                           0.0
+fat_100g                              100.0
+saturated-fat_100g                     10.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                      0.0
+salt_100g                               0.0
+sugars_100g                             0.0
+fiber_100g                              0.0
+energy-kcal_100g                     3766.0
+Name: 801, dtype: float64
+-----------------------
+-----------------------
+Huile de colza
+en:rapeseed-oils
+http://world-en.openfoodfacts.org/product/00120340/huile-de-colza
+proteins_100g                           0.0
+fat_100g                              100.0
+saturated-fat_100g                      8.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                      0.0
+salt_100g                               0.0
+sugars_100g                             0.0
+fiber_100g                              0.0
+energy-kcal_100g                     3766.0
+Name: 1378, dtype: float64
+-----------------------
+-----------------------
+Pure Sesame Oil
+Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Cereals and their products, Fats, Vegetable fats, Vegetable oils, Cereal oils, Sesame oils
+http://world-en.openfoodfacts.org/product/0012822009062/pure-sesame-oil-kadoya
+proteins_100g                           0.0
+fat_100g                              100.0
+saturated-fat_100g                     15.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                      0.0
+salt_100g                               0.0
+sugars_100g                             0.0
+fiber_100g                              0.0
+energy-kcal_100g                     3766.0
+Name: 1456, dtype: float64
+-----------------------
+-----------------------
+Kadoya Sesame Oil Pure
+Fats
+http://world-en.openfoodfacts.org/product/0012822009079/kadoya-sesame-oil-pure
+proteins_100g                           0.01
+fat_100g                              100.00
+saturated-fat_100g                     15.00
+sodium_100g                             0.00
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                      0.00
+salt_100g                               0.00
+sugars_100g                             0.00
+fiber_100g                              0.00
+energy-kcal_100g                     3766.00
+Name: 1457, dtype: float64
+-----------------------
+-----------------------
+Spiced Sesame Oil
+Undefined
+http://world-en.openfoodfacts.org/product/0012822009147/spiced-sesame-oil
+proteins_100g                           0.0
+fat_100g                              100.0
+saturated-fat_100g                     15.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                      0.0
+salt_100g                               0.0
+sugars_100g                             0.0
+fiber_100g                              0.0
+energy-kcal_100g                     3766.0
+Name: 1458, dtype: float64
+-----------------------
+saturated-fat_100g
+0.2
+-----------------------
+Boule de pain
+Undefined
+http://world-en.openfoodfacts.org/product/0000022485670/boule-de-pain
+proteins_100g                           8.30
+fat_100g                                1.10
+saturated-fat_100g                      0.20
+sodium_100g                             0.64
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     59.00
+salt_100g                               1.60
+sugars_100g                             2.90
+fiber_100g                              0.00
+energy-kcal_100g                     1184.00
+Name: 181, dtype: float64
+-----------------------
+-----------------------
+Boule tranchée
+Undefined
+http://world-en.openfoodfacts.org/product/0000022485687/boule-tranchee
+proteins_100g                           8.30
+fat_100g                                1.10
+saturated-fat_100g                      0.20
+sodium_100g                             0.64
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     59.00
+salt_100g                               1.60
+sugars_100g                             2.90
+fiber_100g                              0.00
+energy-kcal_100g                     1184.00
+Name: 182, dtype: float64
+-----------------------
+-----------------------
+PAIN AU SON
+Undefined
+http://world-en.openfoodfacts.org/product/0000022486004/pain-au-son
+proteins_100g                          7.30
+fat_100g                               1.10
+saturated-fat_100g                     0.20
+sodium_100g                            0.48
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    38.00
+salt_100g                              1.20
+sugars_100g                            1.20
+fiber_100g                             0.00
+energy-kcal_100g                     849.00
+Name: 184, dtype: float64
+-----------------------
+-----------------------
+Gros pain
+Undefined
+http://world-en.openfoodfacts.org/product/0000022609281/gros-pain
+proteins_100g                           8.30
+fat_100g                                1.10
+saturated-fat_100g                      0.20
+sodium_100g                             0.64
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     59.00
+salt_100g                               1.60
+sugars_100g                             2.90
+fiber_100g                              0.00
+energy-kcal_100g                     1184.00
+Name: 185, dtype: float64
+-----------------------
+-----------------------
+Plain bagels
+Aliments et boissons à base de végétaux, Aliments d'origine végétale, Céréales et pommes de terre, Pains, Pains spéciaux, Pains Bagel
+http://world-en.openfoodfacts.org/product/0000027249635/plain-bagels
+proteins_100g                           9.400
+fat_100g                                1.500
+saturated-fat_100g                      0.200
+sodium_100g                             0.244
+fruits-vegetables-nuts-dried_100g       0.000
+carbohydrates_100g                     55.000
+salt_100g                               0.610
+sugars_100g                             5.100
+fiber_100g                              0.000
+energy-kcal_100g                     1151.000
+Name: 193, dtype: float64
+-----------------------
+saturated-fat_100g
+2.0
+-----------------------
+Dessert lacte
+Undefined
+http://world-en.openfoodfacts.org/product/0000002270548/dessert-lacte
+proteins_100g                          3.50
+fat_100g                               6.00
+saturated-fat_100g                     2.00
+sodium_100g                            0.04
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    19.00
+salt_100g                              0.10
+sugars_100g                           11.00
+fiber_100g                             0.00
+energy-kcal_100g                     556.00
+Name: 109, dtype: float64
+-----------------------
+-----------------------
+Cakes aux Fruits
+Snacks, Desserts, Snacks sucrés, Biscuits et gâteaux, Gâteaux, Pâtisseries, Cakes aux fruits
+http://world-en.openfoodfacts.org/product/000031/cakes-aux-fruits-bijou
+proteins_100g                         4.90
+fat_100g                             15.00
+saturated-fat_100g                    2.00
+sodium_100g                           0.24
+fruits-vegetables-nuts-dried_100g     0.00
+carbohydrates_100g                   60.00
+salt_100g                             0.60
+sugars_100g                          34.00
+fiber_100g                            1.50
+energy-kcal_100g                      0.00
+Name: 343, dtype: float64
+-----------------------
+-----------------------
+30 Panach' Fruits
+Snacks, Snacks sucrés, Biscuits et gâteaux, Gâteaux, Goûters individuels
+http://world-en.openfoodfacts.org/product/000104/30-panach-fruits-bijou
+proteins_100g                           5.000
+fat_100g                               18.000
+saturated-fat_100g                      2.000
+sodium_100g                             0.252
+fruits-vegetables-nuts-dried_100g       0.000
+carbohydrates_100g                     57.000
+salt_100g                               0.630
+sugars_100g                            31.000
+fiber_100g                              1.000
+energy-kcal_100g                     1724.000
+Name: 439, dtype: float64
+-----------------------
+-----------------------
+Le bio
+Undefined
+http://world-en.openfoodfacts.org/product/0002000000608/le-bio
+proteins_100g                          3.400
+fat_100g                               2.800
+saturated-fat_100g                     2.000
+sodium_100g                            0.052
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                    11.100
+salt_100g                              0.130
+sugars_100g                           11.100
+fiber_100g                             0.000
+energy-kcal_100g                     347.000
+Name: 559, dtype: float64
+-----------------------
+-----------------------
+Assortiment asiatique
+Undefined
+http://world-en.openfoodfacts.org/product/0002000001209/assortiment-asiatique-monoprix
+proteins_100g                          6.10
+fat_100g                              12.00
+saturated-fat_100g                     2.00
+sodium_100g                            0.68
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    23.00
+salt_100g                              1.70
+sugars_100g                            4.10
+fiber_100g                             0.00
+energy-kcal_100g                     950.00
+Name: 572, dtype: float64
+-----------------------
+saturated-fat_100g
+8.0
+-----------------------
+Sables a la noix de coco
+Undefined
+http://world-en.openfoodfacts.org/product/0000007707032/sables-a-la-noix-de-coco
+proteins_100g                           7.000
+fat_100g                               16.000
+saturated-fat_100g                      8.000
+sodium_100g                             0.304
+fruits-vegetables-nuts-dried_100g       0.000
+carbohydrates_100g                     71.000
+salt_100g                               0.760
+sugars_100g                            24.000
+fiber_100g                              0.000
+energy-kcal_100g                     1941.000
+Name: 122, dtype: float64
+-----------------------
+-----------------------
+Kitkat White Wafers
+Snacks, Snacks sucrés, Confiseries, Confiseries chocolatées, Barres, Barres chocolatées, Barres chocolatées biscuitées
+http://world-en.openfoodfacts.org/product/0000034054086/kitkat-white-wafers
+proteins_100g                          2.0
+fat_100g                              12.0
+saturated-fat_100g                     8.0
+sodium_100g                            0.0
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                    27.0
+salt_100g                              0.0
+sugars_100g                           19.0
+fiber_100g                             0.0
+energy-kcal_100g                     920.0
+Name: 199, dtype: float64
+-----------------------
+-----------------------
+Reese's
+Undefined
+http://world-en.openfoodfacts.org/product/0000034248010/reese-s
+proteins_100g                          5.00
+fat_100g                              22.00
+saturated-fat_100g                     8.00
+sodium_100g                            0.24
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    22.00
+salt_100g                              0.60
+sugars_100g                           22.00
+fiber_100g                             0.00
+energy-kcal_100g                     444.00
+Name: 203, dtype: float64
+-----------------------
+-----------------------
+Baguette Brie
+Sandwichs,Sandwichs au fromage,Sandwichs au brie
+http://world-en.openfoodfacts.org/product/00015721/baguette-brie-crous-languedoc-roussillon
+proteins_100g                          12.9
+fat_100g                               11.4
+saturated-fat_100g                      8.0
+sodium_100g                             0.6
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     33.1
+salt_100g                               1.5
+sugars_100g                             1.6
+fiber_100g                              0.0
+energy-kcal_100g                     1163.0
+Name: 529, dtype: float64
+-----------------------
+-----------------------
+Cocottes cereales
+Snacks, Sweet snacks, Biscuits and cakes, Biscuits, en:cakes
+http://world-en.openfoodfacts.org/product/0002000000585/cocottes-cereales
+proteins_100g                           8.400
+fat_100g                               26.000
+saturated-fat_100g                      8.000
+sodium_100g                             0.272
+fruits-vegetables-nuts-dried_100g       0.000
+carbohydrates_100g                     60.000
+salt_100g                               0.680
+sugars_100g                            23.000
+fiber_100g                              0.000
+energy-kcal_100g                     2146.000
+Name: 557, dtype: float64
+-----------------------
+saturated-fat_100g
+100
+-----------------------
+Omega-3
+Compléments alimentaires
+http://world-en.openfoodfacts.org/product/0031604030810/omega-3-nature-made
+proteins_100g                           0.0
+fat_100g                              100.0
+saturated-fat_100g                    100.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                      0.0
+salt_100g                               0.0
+sugars_100g                             0.0
+fiber_100g                              0.0
+energy-kcal_100g                     4200.0
+Name: 3949, dtype: float64
+-----------------------
+-----------------------
+Miel Pur (crémeux Naturel)
+Petit-déjeuners, Produits à tartiner, Produits à tartiner sucrés, Produits de la ruche, Produits d'élevages, Édulcorants, Miels
+http://world-en.openfoodfacts.org/product/0068391000436/miel-pur-cremeux-naturel-doyon
+proteins_100g                           0.5
+fat_100g                              100.0
+saturated-fat_100g                    100.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     80.0
+salt_100g                               0.0
+sugars_100g                            80.0
+fiber_100g                              0.0
+energy-kcal_100g                     1260.0
+Name: 9341, dtype: float64
+-----------------------
+-----------------------
+sandwich américain jambon
+Undefined
+http://world-en.openfoodfacts.org/product/0204116025913/sandwich-americain-jambon-leclerc
+proteins_100g                          34.0
+fat_100g                               20.0
+saturated-fat_100g                    100.0
+sodium_100g                             4.8
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     30.0
+salt_100g                              12.0
+sugars_100g                             2.0
+fiber_100g                             31.0
+energy-kcal_100g                     8368.0
+Name: 17678, dtype: float64
+-----------------------
+-----------------------
+MCT PURE (huile MCT de coco)
+Undefined
+http://world-en.openfoodfacts.org/product/0787099226466/mct-pure-huile-mct-de-coco
+proteins_100g                           0.0
+fat_100g                              100.0
+saturated-fat_100g                    100.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                      0.0
+salt_100g                               0.0
+sugars_100g                             0.0
+fiber_100g                              0.0
+energy-kcal_100g                     3473.0
+Name: 40242, dtype: float64
+-----------------------
+-----------------------
+Pastel de nata
+pt:pastel de nata
+http://world-en.openfoodfacts.org/product/2000000901664/pastel-de-nata
+proteins_100g                          1.0
+fat_100g                             100.0
+saturated-fat_100g                   100.0
+sodium_100g                            0.4
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                     1.0
+salt_100g                              1.0
+sugars_100g                            1.0
+fiber_100g                             0.0
+energy-kcal_100g                     418.0
+Name: 48002, dtype: float64
+-----------------------
+sodium_100g
+0.02
+-----------------------
+A&w - Root Beer - 355ml
+Boissons
+http://world-en.openfoodfacts.org/product/0000007818707/a-w-root-beer-355ml
+proteins_100g                          0.00
+fat_100g                               0.00
+saturated-fat_100g                     0.00
+sodium_100g                            0.02
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    13.30
+salt_100g                              0.05
+sugars_100g                           12.70
+fiber_100g                             0.00
+energy-kcal_100g                     201.00
+Name: 123, dtype: float64
+-----------------------
+-----------------------
+Mendiants - Studentenhaver
+Undefined
+http://world-en.openfoodfacts.org/product/00000291/mendiants-studentenhaver
+proteins_100g                           8.00
+fat_100g                               19.70
+saturated-fat_100g                      1.70
+sodium_100g                             0.02
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     55.20
+salt_100g                               0.05
+sugars_100g                            50.09
+fiber_100g                              0.00
+energy-kcal_100g                     1828.00
+Name: 195, dtype: float64
+-----------------------
+-----------------------
+Jabra Jabra JX-10 Xtra Earhook Bulk
+Undefined
+http://world-en.openfoodfacts.org/product/0002000000448/jabra-jabra-jx-10-xtra-earhook-bulk
+proteins_100g                          1.80
+fat_100g                              11.00
+saturated-fat_100g                    10.00
+sodium_100g                            0.02
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    18.00
+salt_100g                              0.05
+sugars_100g                           17.00
+fiber_100g                             0.00
+energy-kcal_100g                     741.00
+Name: 553, dtype: float64
+-----------------------
+-----------------------
+Confiture de fraise
+Aliments et boissons à base de végétaux, Aliments d'origine végétale, Produits à tartiner, Petit-déjeuners, Aliments à base de fruits et de légumes, Fruits et produits dérivés, Pâtes à tartiner végétales, Produits à tartiner sucrés, Confitures et marmelades, Confitures, Confitures de fruits, Confitures de fruits rouges, Confitures de fraises
+http://world-en.openfoodfacts.org/product/0002000005078/confiture-de-fraise
+proteins_100g                           0.50
+fat_100g                                0.30
+saturated-fat_100g                      0.05
+sodium_100g                             0.02
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     60.00
+salt_100g                               0.05
+sugars_100g                            59.00
+fiber_100g                              0.00
+energy-kcal_100g                     1038.00
+Name: 618, dtype: float64
+-----------------------
+-----------------------
+Percy's family mix
+Undefined
+http://world-en.openfoodfacts.org/product/00020039/percy-s-family-mix
+proteins_100g                           5.10
+fat_100g                                0.20
+saturated-fat_100g                      0.10
+sodium_100g                             0.02
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     78.10
+salt_100g                               0.05
+sugars_100g                            52.30
+fiber_100g                              0.00
+energy-kcal_100g                     1406.00
+Name: 666, dtype: float64
+-----------------------
+sodium_100g
+0.2
+-----------------------
+Stylo glaçage gris
+Décorations alimentaires
+http://world-en.openfoodfacts.org/product/0000000125512/stylo-glacage-gris
+proteins_100g                           3.0
+fat_100g                               38.0
+saturated-fat_100g                     36.0
+sodium_100g                             0.2
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     58.0
+salt_100g                               0.5
+sugars_100g                            58.0
+fiber_100g                              0.0
+energy-kcal_100g                     2427.0
+Name: 76, dtype: float64
+-----------------------
+-----------------------
+Entremets Crème Brulée
+Produits laitiers, Desserts, Produits déshydratés, Desserts lactés, Produits lyophilisés à reconstituer
+http://world-en.openfoodfacts.org/product/0000000491228/entremets-creme-brulee-comme-j-aime
+proteins_100g                         6.8
+fat_100g                             15.3
+saturated-fat_100g                   11.2
+sodium_100g                           0.2
+fruits-vegetables-nuts-dried_100g     0.0
+carbohydrates_100g                   75.5
+salt_100g                             0.5
+sugars_100g                          69.8
+fiber_100g                            0.1
+energy-kcal_100g                      0.0
+Name: 96, dtype: float64
+-----------------------
+-----------------------
+petits légumes sauce provençale et riz
+Undefined
+http://world-en.openfoodfacts.org/product/0000000506632/petits-legumes-sauce-provencale-et-riz
+proteins_100g                          2.2
+fat_100g                              21.0
+saturated-fat_100g                     0.3
+sodium_100g                            0.2
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                    21.1
+salt_100g                              0.5
+sugars_100g                            2.4
+fiber_100g                             0.0
+energy-kcal_100g                     481.0
+Name: 98, dtype: float64
+-----------------------
+-----------------------
+Tarte au Maroilles
+Undefined
+http://world-en.openfoodfacts.org/product/0000003905302/tarte-au-maroilles
+proteins_100g                           8.7
+fat_100g                               17.8
+saturated-fat_100g                     11.6
+sodium_100g                             0.2
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     19.9
+salt_100g                               0.5
+sugars_100g                             1.7
+fiber_100g                              0.0
+energy-kcal_100g                     1159.0
+Name: 115, dtype: float64
+-----------------------
+-----------------------
+Stylo glaçage blanc
+Undefined
+http://world-en.openfoodfacts.org/product/0000010211656/stylo-glacage-blanc
+proteins_100g                           3.0
+fat_100g                               38.0
+saturated-fat_100g                     32.0
+sodium_100g                             0.2
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     58.0
+salt_100g                               0.5
+sugars_100g                            58.0
+fiber_100g                              0.0
+energy-kcal_100g                     2427.0
+Name: 148, dtype: float64
+-----------------------
+sodium_100g
+0.52
+-----------------------
+Abondance
+Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de France, Abondance
+http://world-en.openfoodfacts.org/product/0000000005005/abondance
+proteins_100g                          25.00
+fat_100g                               33.00
+saturated-fat_100g                     21.60
+sodium_100g                             0.52
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                      0.10
+salt_100g                               1.30
+sugars_100g                             0.10
+fiber_100g                              0.00
+energy-kcal_100g                     1661.00
+Name: 34, dtype: float64
+-----------------------
+-----------------------
+Baguette Poitevin
+Undefined
+http://world-en.openfoodfacts.org/product/0000000012263/baguette-poitevin
+proteins_100g                          9.40
+fat_100g                               5.80
+saturated-fat_100g                     3.70
+sodium_100g                            0.52
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    32.00
+salt_100g                              1.30
+sugars_100g                            2.00
+fiber_100g                             0.00
+energy-kcal_100g                     887.00
+Name: 51, dtype: float64
+-----------------------
+-----------------------
+Moelleux au chocolat
+Undefined
+http://world-en.openfoodfacts.org/product/0000000031141/moelleux-au-chocolat-golden-temple
+proteins_100g                           6.20
+fat_100g                               28.60
+saturated-fat_100g                     18.30
+sodium_100g                             0.52
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     45.90
+salt_100g                               1.30
+sugars_100g                            32.30
+fiber_100g                              7.30
+energy-kcal_100g                     1966.00
+Name: 65, dtype: float64
+-----------------------
+-----------------------
+Couronne des rois
+Undefined
+http://world-en.openfoodfacts.org/product/0000022683489/couronne-des-rois
+proteins_100g                           8.70
+fat_100g                               13.00
+saturated-fat_100g                      7.80
+sodium_100g                             0.52
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     57.00
+salt_100g                               1.30
+sugars_100g                            15.00
+fiber_100g                              0.00
+energy-kcal_100g                     1602.00
+Name: 186, dtype: float64
+-----------------------
+-----------------------
+Cornichons à La Russe Kühne 970 G (530 G égoutté)
+Undefined
+http://world-en.openfoodfacts.org/product/0000040122878/cornichons-a-la-russe-kuhne-970-g-530-g-egoutte
+proteins_100g                          0.90
+fat_100g                               0.20
+saturated-fat_100g                     0.10
+sodium_100g                            0.52
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                     4.00
+salt_100g                              1.30
+sugars_100g                            3.80
+fiber_100g                             0.00
+energy-kcal_100g                     109.00
+Name: 209, dtype: float64
+-----------------------
+sodium_100g
+100
+fruits-vegetables-nuts-dried_100g
+0.0
+-----------------------
+Vitória crackers
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000017/vitoria-crackers
+proteins_100g                           7.80
+fat_100g                                7.00
+saturated-fat_100g                      3.08
+sodium_100g                             0.56
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     70.10
+salt_100g                               1.40
+sugars_100g                            15.00
+fiber_100g                              0.00
+energy-kcal_100g                     1569.00
+Name: 0, dtype: float64
+-----------------------
+-----------------------
+ moutarde au moût de raisin 
+Epicerie, Condiments, Sauces, Moutardes
+http://world-en.openfoodfacts.org/product/0000000000100/moutarde-au-mout-de-raisin-courte-paille
+proteins_100g                         5.100000
+fat_100g                              8.200000
+saturated-fat_100g                    2.200000
+sodium_100g                           1.811024
+fruits-vegetables-nuts-dried_100g     0.000000
+carbohydrates_100g                   29.000000
+salt_100g                             4.600000
+sugars_100g                          22.000000
+fiber_100g                            0.000000
+energy-kcal_100g                      0.000000
+Name: 1, dtype: float64
+-----------------------
+-----------------------
+Sauce Sweety chili 0%
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000123/sauce-sweety-chili-0
+proteins_100g                         0.200
+fat_100g                              0.000
+saturated-fat_100g                    0.000
+sodium_100g                           0.816
+fruits-vegetables-nuts-dried_100g     0.000
+carbohydrates_100g                    4.800
+salt_100g                             2.040
+sugars_100g                           0.400
+fiber_100g                            0.000
+energy-kcal_100g                     88.000
+Name: 2, dtype: float64
+-----------------------
+-----------------------
+Mini coco
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000178/mini-coco
+proteins_100g                          2.00
+fat_100g                               3.00
+saturated-fat_100g                     1.00
+sodium_100g                            0.46
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    10.00
+salt_100g                              1.15
+sugars_100g                            3.00
+fiber_100g                             0.00
+energy-kcal_100g                     251.00
+Name: 3, dtype: float64
+-----------------------
+-----------------------
+Salade de carottes râpées
+Plats préparés, Légumes préparés, Carottes râpées, Carottes râpées assaisonnées
+http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees
+proteins_100g                          0.900
+fat_100g                               0.300
+saturated-fat_100g                     0.100
+sodium_100g                            0.168
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                     5.300
+salt_100g                              0.420
+sugars_100g                            3.900
+fiber_100g                             0.000
+energy-kcal_100g                     134.000
+Name: 4, dtype: float64
+-----------------------
+fruits-vegetables-nuts-dried_100g
+0.0
+-----------------------
+Vitória crackers
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000017/vitoria-crackers
+proteins_100g                           7.80
+fat_100g                                7.00
+saturated-fat_100g                      3.08
+sodium_100g                             0.56
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     70.10
+salt_100g                               1.40
+sugars_100g                            15.00
+fiber_100g                              0.00
+energy-kcal_100g                     1569.00
+Name: 0, dtype: float64
+-----------------------
+-----------------------
+ moutarde au moût de raisin 
+Epicerie, Condiments, Sauces, Moutardes
+http://world-en.openfoodfacts.org/product/0000000000100/moutarde-au-mout-de-raisin-courte-paille
+proteins_100g                         5.100000
+fat_100g                              8.200000
+saturated-fat_100g                    2.200000
+sodium_100g                           1.811024
+fruits-vegetables-nuts-dried_100g     0.000000
+carbohydrates_100g                   29.000000
+salt_100g                             4.600000
+sugars_100g                          22.000000
+fiber_100g                            0.000000
+energy-kcal_100g                      0.000000
+Name: 1, dtype: float64
+-----------------------
+-----------------------
+Sauce Sweety chili 0%
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000123/sauce-sweety-chili-0
+proteins_100g                         0.200
+fat_100g                              0.000
+saturated-fat_100g                    0.000
+sodium_100g                           0.816
+fruits-vegetables-nuts-dried_100g     0.000
+carbohydrates_100g                    4.800
+salt_100g                             2.040
+sugars_100g                           0.400
+fiber_100g                            0.000
+energy-kcal_100g                     88.000
+Name: 2, dtype: float64
+-----------------------
+-----------------------
+Mini coco
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000178/mini-coco
+proteins_100g                          2.00
+fat_100g                               3.00
+saturated-fat_100g                     1.00
+sodium_100g                            0.46
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    10.00
+salt_100g                              1.15
+sugars_100g                            3.00
+fiber_100g                             0.00
+energy-kcal_100g                     251.00
+Name: 3, dtype: float64
+-----------------------
+-----------------------
+Salade de carottes râpées
+Plats préparés, Légumes préparés, Carottes râpées, Carottes râpées assaisonnées
+http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees
+proteins_100g                          0.900
+fat_100g                               0.300
+saturated-fat_100g                     0.100
+sodium_100g                            0.168
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                     5.300
+salt_100g                              0.420
+sugars_100g                            3.900
+fiber_100g                             0.000
+energy-kcal_100g                     134.000
+Name: 4, dtype: float64
+-----------------------
+fruits-vegetables-nuts-dried_100g
+0.0
+-----------------------
+Vitória crackers
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000017/vitoria-crackers
+proteins_100g                           7.80
+fat_100g                                7.00
+saturated-fat_100g                      3.08
+sodium_100g                             0.56
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     70.10
+salt_100g                               1.40
+sugars_100g                            15.00
+fiber_100g                              0.00
+energy-kcal_100g                     1569.00
+Name: 0, dtype: float64
+-----------------------
+-----------------------
+ moutarde au moût de raisin 
+Epicerie, Condiments, Sauces, Moutardes
+http://world-en.openfoodfacts.org/product/0000000000100/moutarde-au-mout-de-raisin-courte-paille
+proteins_100g                         5.100000
+fat_100g                              8.200000
+saturated-fat_100g                    2.200000
+sodium_100g                           1.811024
+fruits-vegetables-nuts-dried_100g     0.000000
+carbohydrates_100g                   29.000000
+salt_100g                             4.600000
+sugars_100g                          22.000000
+fiber_100g                            0.000000
+energy-kcal_100g                      0.000000
+Name: 1, dtype: float64
+-----------------------
+-----------------------
+Sauce Sweety chili 0%
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000123/sauce-sweety-chili-0
+proteins_100g                         0.200
+fat_100g                              0.000
+saturated-fat_100g                    0.000
+sodium_100g                           0.816
+fruits-vegetables-nuts-dried_100g     0.000
+carbohydrates_100g                    4.800
+salt_100g                             2.040
+sugars_100g                           0.400
+fiber_100g                            0.000
+energy-kcal_100g                     88.000
+Name: 2, dtype: float64
+-----------------------
+-----------------------
+Mini coco
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000178/mini-coco
+proteins_100g                          2.00
+fat_100g                               3.00
+saturated-fat_100g                     1.00
+sodium_100g                            0.46
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    10.00
+salt_100g                              1.15
+sugars_100g                            3.00
+fiber_100g                             0.00
+energy-kcal_100g                     251.00
+Name: 3, dtype: float64
+-----------------------
+-----------------------
+Salade de carottes râpées
+Plats préparés, Légumes préparés, Carottes râpées, Carottes râpées assaisonnées
+http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees
+proteins_100g                          0.900
+fat_100g                               0.300
+saturated-fat_100g                     0.100
+sodium_100g                            0.168
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                     5.300
+salt_100g                              0.420
+sugars_100g                            3.900
+fiber_100g                             0.000
+energy-kcal_100g                     134.000
+Name: 4, dtype: float64
+-----------------------
+fruits-vegetables-nuts-dried_100g
+100
+-----------------------
+Beurre de cacahuète Fedibio
+Aliments et boissons à base de végétaux, Aliments d'origine végétale, Légumineuses et dérivés, Produits à tartiner, Fruits à coques et dérivés, Pâtes à tartiner végétales, Purées d'oléagineux, Beurres de fruits à coques, Beurres de légumineuses, Beurres de cacahuètes
+http://world-en.openfoodfacts.org/product/2000000091089/beurre-de-cacahuete-fedibio
+proteins_100g                          30.0
+fat_100g                               43.0
+saturated-fat_100g                      0.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g     100.0
+carbohydrates_100g                     13.0
+salt_100g                               0.0
+sugars_100g                             0.0
+fiber_100g                             10.0
+energy-kcal_100g                     2523.0
+Name: 47227, dtype: float64
+-----------------------
+-----------------------
+Pistaches
+Aliments et boissons à base de végétaux, Aliments d'origine végétale, Fruits à coques et dérivés, Fruits à coques, Pistaches
+http://world-en.openfoodfacts.org/product/30170605/pistaches-menguy-s
+proteins_100g                          25.000
+fat_100g                               50.000
+saturated-fat_100g                      6.300
+sodium_100g                             0.004
+fruits-vegetables-nuts-dried_100g     100.000
+carbohydrates_100g                     11.000
+salt_100g                               0.010
+sugars_100g                             6.500
+fiber_100g                              9.500
+energy-kcal_100g                     2577.000
+Name: 100106, dtype: float64
+-----------------------
+-----------------------
+Croqandises
+Undefined
+http://world-en.openfoodfacts.org/product/3068230013419/croqandises
+proteins_100g                          15.300
+fat_100g                               46.300
+saturated-fat_100g                      9.100
+sodium_100g                             0.016
+fruits-vegetables-nuts-dried_100g     100.000
+carbohydrates_100g                     32.700
+salt_100g                               0.040
+sugars_100g                             5.000
+fiber_100g                              0.000
+energy-kcal_100g                     2402.000
+Name: 113025, dtype: float64
+-----------------------
+-----------------------
+Noisettes bio
+Undefined
+http://world-en.openfoodfacts.org/product/3068230015550/noisettes-bio-sun
+proteins_100g                          15.0
+fat_100g                               61.0
+saturated-fat_100g                      4.5
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g     100.0
+carbohydrates_100g                      7.0
+salt_100g                               0.0
+sugars_100g                             4.3
+fiber_100g                              0.0
+energy-kcal_100g                     2628.0
+Name: 113070, dtype: float64
+-----------------------
+-----------------------
+Noisettes Décortiquées
+Aliments et boissons à base de végétaux, Aliments d'origine végétale, Fruits à coques et dérivés, Fruits à coques, Noisettes, Fruits à coques décortiqués, Noisettes décortiquées
+http://world-en.openfoodfacts.org/product/3502490192106/noisettes-decortiquees-petit-prix
+proteins_100g                          15.000
+fat_100g                               63.000
+saturated-fat_100g                      8.400
+sodium_100g                             0.004
+fruits-vegetables-nuts-dried_100g     100.000
+carbohydrates_100g                      4.700
+salt_100g                               0.010
+sugars_100g                             4.500
+fiber_100g                             10.000
+energy-kcal_100g                     2787.000
+Name: 264951, dtype: float64
+-----------------------
+carbohydrates_100g
+2.7
+-----------------------
+Super broccoli spinach & pea soup
+Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Meals, Soups, Vegetable soups
+http://world-en.openfoodfacts.org/product/00071406/super-broccoli-spinach-pea-soup-m-s
+proteins_100g                          2.100
+fat_100g                               1.300
+saturated-fat_100g                     0.200
+sodium_100g                            0.152
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                     2.700
+salt_100g                              0.380
+sugars_100g                            1.700
+fiber_100g                             1.600
+energy-kcal_100g                     142.000
+Name: 895, dtype: float64
+-----------------------
+-----------------------
+Super Broccoli Spinach Pea Soup
+Undefined
+http://world-en.openfoodfacts.org/product/00086561/super-broccoli-spinach-pea-soup-marks-and-spencer
+proteins_100g                          2.10
+fat_100g                               1.30
+saturated-fat_100g                     0.20
+sodium_100g                            0.16
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                     2.70
+salt_100g                              0.40
+sugars_100g                            1.70
+fiber_100g                             0.00
+energy-kcal_100g                     142.00
+Name: 1001, dtype: float64
+-----------------------
+-----------------------
+Pate campagne aux marrons
+Undefined
+http://world-en.openfoodfacts.org/product/0012345678936/pate-campagne-aux-marrons
+proteins_100g                         17.70
+fat_100g                               7.90
+saturated-fat_100g                     3.20
+sodium_100g                            0.32
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                     2.70
+salt_100g                              0.80
+sugars_100g                            0.80
+fiber_100g                             0.00
+energy-kcal_100g                     640.00
+Name: 1401, dtype: float64
+-----------------------
+-----------------------
+Smoked salmon & soft cheese
+Seafood, Fishes, Salmons, Smoked fishes, Smoked salmons
+http://world-en.openfoodfacts.org/product/00152709/smoked-salmon-soft-cheese-m-s
+proteins_100g                          10.20
+fat_100g                               23.60
+saturated-fat_100g                      9.60
+sodium_100g                             0.56
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                      2.70
+salt_100g                               1.40
+sugars_100g                             2.20
+fiber_100g                              0.00
+energy-kcal_100g                     1109.00
+Name: 1794, dtype: float64
+-----------------------
+-----------------------
+Chili, garlic & paprika king prawns
+Undefined
+http://world-en.openfoodfacts.org/product/00154741/chili-garlic-paprika-king-prawns-marks-and-spencer
+proteins_100g                         18.700
+fat_100g                               0.400
+saturated-fat_100g                     0.300
+sodium_100g                            0.372
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                     2.700
+salt_100g                              0.930
+sugars_100g                            0.300
+fiber_100g                             0.000
+energy-kcal_100g                     305.000
+Name: 1812, dtype: float64
+-----------------------
+carbohydrates_100g
+14.0
+-----------------------
+Root Beer
+Boissons, Boissons gazeuses, Sodas, Boissons avec sucre ajouté, Root Beers
+http://world-en.openfoodfacts.org/product/0000007020254/root-beer-a-w
+proteins_100g                          0.0
+fat_100g                               0.0
+saturated-fat_100g                     0.0
+sodium_100g                            0.4
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                    14.0
+salt_100g                              1.0
+sugars_100g                            0.0
+fiber_100g                             0.0
+energy-kcal_100g                     213.0
+Name: 121, dtype: float64
+-----------------------
+-----------------------
+Wild about Nerds
+Undefined
+http://world-en.openfoodfacts.org/product/0000079339254/wild-about-nerds
+proteins_100g                          0.0
+fat_100g                               0.0
+saturated-fat_100g                     0.0
+sodium_100g                            0.0
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                    14.0
+salt_100g                              0.0
+sugars_100g                           14.0
+fiber_100g                             0.0
+energy-kcal_100g                     251.0
+Name: 300, dtype: float64
+-----------------------
+-----------------------
+Lindt
+Tablettes chocolat noir
+http://world-en.openfoodfacts.org/product/0002000005429/lindt
+proteins_100g                          10.0
+fat_100g                               55.0
+saturated-fat_100g                     30.0
+sodium_100g                             1.2
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     14.0
+salt_100g                               3.0
+sugars_100g                             7.0
+fiber_100g                              0.0
+energy-kcal_100g                     2477.0
+Name: 619, dtype: float64
+-----------------------
+-----------------------
+Yaourt ananas passion
+Undefined
+http://world-en.openfoodfacts.org/product/0002000010256/yaourt-ananas-passion
+proteins_100g                          3.400
+fat_100g                               2.400
+saturated-fat_100g                     1.600
+sodium_100g                            0.056
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                    14.000
+salt_100g                              0.140
+sugars_100g                           13.000
+fiber_100g                             0.000
+energy-kcal_100g                     385.000
+Name: 642, dtype: float64
+-----------------------
+-----------------------
+Ananas au sirop
+Fruits en conserve,Aliments d'origine végétale,Fruits et produits dérivés,Fruits au sirop
+http://world-en.openfoodfacts.org/product/00031646/ananas-au-sirop-crous-languedoc-roussillon
+proteins_100g                          0.0
+fat_100g                               0.0
+saturated-fat_100g                     0.0
+sodium_100g                            0.0
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                    14.0
+salt_100g                              0.0
+sugars_100g                           13.0
+fiber_100g                             0.7
+energy-kcal_100g                     234.0
+Name: 767, dtype: float64
+-----------------------
+carbohydrates_100g
+52.8
+-----------------------
+4 Muffins fourrés chocolat noisettes
+Undefined
+http://world-en.openfoodfacts.org/product/0000647023615/4-muffins-fourres-chocolat-noisettes
+proteins_100g                           5.700
+fat_100g                               25.200
+saturated-fat_100g                      3.300
+sodium_100g                             0.336
+fruits-vegetables-nuts-dried_100g       0.000
+carbohydrates_100g                     52.800
+salt_100g                               0.840
+sugars_100g                            35.700
+fiber_100g                              0.000
+energy-kcal_100g                     1941.000
+Name: 380, dtype: float64
+-----------------------
+-----------------------
+Sweet chilli hand cooked crisps
+Undefined
+http://world-en.openfoodfacts.org/product/00028325/sweet-chilli-hand-cooked-crisps-marks-and-spencer
+proteins_100g                           6.10
+fat_100g                               30.20
+saturated-fat_100g                      3.50
+sodium_100g                             0.52
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     52.80
+salt_100g                               1.30
+sugars_100g                             2.20
+fiber_100g                              0.00
+energy-kcal_100g                     2163.00
+Name: 728, dtype: float64
+-----------------------
+-----------------------
+Chocolate Fudge Cake
+Snacks, Desserts, Snacks sucrés, Biscuits et gâteaux, Gâteaux, Gâteaux au chocolat
+http://world-en.openfoodfacts.org/product/00286503/chocolate-fudge-cake-marks-spencer
+proteins_100g                           5.40
+fat_100g                               20.20
+saturated-fat_100g                      8.20
+sodium_100g                             0.24
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     52.80
+salt_100g                               0.60
+sugars_100g                            32.90
+fiber_100g                              1.50
+energy-kcal_100g                     1749.00
+Name: 3584, dtype: float64
+-----------------------
+-----------------------
+Sweet chili dipping sauce
+Groceries, Sauces, Pimented sauces
+http://world-en.openfoodfacts.org/product/00456012/sweet-chili-dipping-sauce-marks-spencer
+proteins_100g                          0.90
+fat_100g                               0.70
+saturated-fat_100g                     0.00
+sodium_100g                            1.08
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    52.80
+salt_100g                              2.70
+sugars_100g                           52.80
+fiber_100g                             0.60
+energy-kcal_100g                     941.00
+Name: 5986, dtype: float64
+-----------------------
+-----------------------
+Sea salt et balsamic vinegar and cooked crisps
+Undefined
+http://world-en.openfoodfacts.org/product/00471831/sea-salt-et-balsamic-vinegar-and-cooked-crisps
+proteins_100g                           6.700
+fat_100g                               30.400
+saturated-fat_100g                      3.200
+sodium_100g                             0.732
+fruits-vegetables-nuts-dried_100g       0.000
+carbohydrates_100g                     52.800
+salt_100g                               1.830
+sugars_100g                             1.900
+fiber_100g                              0.000
+energy-kcal_100g                     2180.000
+Name: 6059, dtype: float64
+-----------------------
+carbohydrates_100g
+100
+-----------------------
+Dextrose & Maltodextrine mixed berry
+Édulcorants, Sucres, Dextrose, Maltodextrine
+http://world-en.openfoodfacts.org/product/000057820/dextrose-maltodextrine-mixed-berry-bulkpowders-com
+proteins_100g                           0.0
+fat_100g                                0.0
+saturated-fat_100g                      0.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                    100.0
+salt_100g                               0.0
+sugars_100g                            50.0
+fiber_100g                              0.0
+energy-kcal_100g                     1674.0
+Name: 370, dtype: float64
+-----------------------
+-----------------------
+Tabasco Hot Cinnamon Candies, Cinnamon
+Undefined
+http://world-en.openfoodfacts.org/product/0011210036796/tabasco-hot-cinnamon-candies-cinnamon
+proteins_100g                           0.0
+fat_100g                                0.0
+saturated-fat_100g                      0.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                    100.0
+salt_100g                               0.0
+sugars_100g                            73.0
+fiber_100g                              0.0
+energy-kcal_100g                     1674.0
+Name: 1260, dtype: float64
+-----------------------
+-----------------------
+Farine de Blé Blanche
+Undefined
+http://world-en.openfoodfacts.org/product/0012345727634/farine-de-ble-blanche
+proteins_100g                          0.0
+fat_100g                               0.0
+saturated-fat_100g                     0.0
+sodium_100g                            0.0
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                   100.0
+salt_100g                              0.0
+sugars_100g                            0.0
+fiber_100g                             0.0
+energy-kcal_100g                       4.0
+Name: 1402, dtype: float64
+-----------------------
+-----------------------
+Organic stevia zero calorie sweetener blend
+Sweeteners, Sugars
+http://world-en.openfoodfacts.org/product/0012511946609/organic-stevia-zero-calorie-sweetener-blend
+proteins_100g                          0.0
+fat_100g                               0.0
+saturated-fat_100g                     0.0
+sodium_100g                            0.0
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                   100.0
+salt_100g                              0.0
+sugars_100g                            0.0
+fiber_100g                             0.0
+energy-kcal_100g                       0.0
+Name: 1411, dtype: float64
+-----------------------
+-----------------------
+Dentyne pure gum mint/melon accents sugar free1x9 pc
+Snacks, Sweet snacks, Confectioneries
+http://world-en.openfoodfacts.org/product/0012546308052/dentyne-pure-gum-mint-melon-accents-sugar-free1x9-pc
+proteins_100g                           0.0
+fat_100g                                0.0
+saturated-fat_100g                      0.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                    100.0
+salt_100g                               0.0
+sugars_100g                             0.0
+fiber_100g                              0.0
+energy-kcal_100g                     1046.0
+Name: 1427, dtype: float64
+-----------------------
+salt_100g
+0.0499999999999999
+-----------------------
+Diet Lemonade
+Boissons, Boissons gazeuses, Sodas, Limonades, Boissons avec sucre ajouté, Boissons sans sucre ajouté
+http://world-en.openfoodfacts.org/product/00220347/diet-lemonade-marks-spencer
+proteins_100g                         0.10
+fat_100g                              0.00
+saturated-fat_100g                    0.10
+sodium_100g                           0.02
+fruits-vegetables-nuts-dried_100g     0.00
+carbohydrates_100g                    0.00
+salt_100g                             0.05
+sugars_100g                           0.20
+fiber_100g                            0.00
+energy-kcal_100g                     42.00
+Name: 2741, dtype: float64
+-----------------------
+-----------------------
+Lemon & Green Tea
+Beverages, Unsweetened beverages, en:teas
+http://world-en.openfoodfacts.org/product/00875172/lemon-green-tea-marks-and-spencer
+proteins_100g                          0.50
+fat_100g                               0.10
+saturated-fat_100g                     0.00
+sodium_100g                            0.02
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                     7.10
+salt_100g                              0.05
+sugars_100g                            6.30
+fiber_100g                             0.60
+energy-kcal_100g                     126.00
+Name: 11888, dtype: float64
+-----------------------
+-----------------------
+Apple, Sultana & Cinnamon Porridge
+Aliments et boissons à base de végétaux, Aliments d'origine végétale, Petit-déjeuners, Céréales et pommes de terre, Céréales et dérivés, Céréales pour petit-déjeuner, Porridges
+http://world-en.openfoodfacts.org/product/00933520/apple-sultana-cinnamon-porridge-marks-spencer
+proteins_100g                           8.60
+fat_100g                                0.00
+saturated-fat_100g                      0.80
+sodium_100g                             0.02
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                      0.00
+salt_100g                               0.05
+sugars_100g                            18.00
+fiber_100g                              7.80
+energy-kcal_100g                     1519.00
+Name: 12507, dtype: float64
+-----------------------
+-----------------------
+Aceto Balsamico di modena I.G.P Biologico
+Vinaigres, Vinaigres balsamiques, Vinaigres balsamiques de Modène
+http://world-en.openfoodfacts.org/product/0817380010983/aceto-balsamico-di-modena-i-g-p-biologico-le-pain-quotidien
+proteins_100g                          0.06
+fat_100g                               0.00
+saturated-fat_100g                     0.00
+sodium_100g                            0.02
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    25.00
+salt_100g                              0.05
+sugars_100g                           25.00
+fiber_100g                             0.00
+energy-kcal_100g                     498.00
+Name: 41046, dtype: float64
+-----------------------
+-----------------------
+Mini Fruity JELLY BEANS
+Snacks, Snacks sucrés, Confiseries, Bonbons, Bonbons gélifiés, Jelly beans
+http://world-en.openfoodfacts.org/product/0992732/mini-fruity-jelly-beans-marks-spencer
+proteins_100g                         0.10
+fat_100g                              1.00
+saturated-fat_100g                    0.80
+sodium_100g                           0.02
+fruits-vegetables-nuts-dried_100g     0.00
+carbohydrates_100g                   90.90
+salt_100g                             0.05
+sugars_100g                          60.60
+fiber_100g                            0.50
+energy-kcal_100g                      0.00
+Name: 43158, dtype: float64
+-----------------------
+salt_100g
+0.5
+-----------------------
+Stylo glaçage gris
+Décorations alimentaires
+http://world-en.openfoodfacts.org/product/0000000125512/stylo-glacage-gris
+proteins_100g                           3.0
+fat_100g                               38.0
+saturated-fat_100g                     36.0
+sodium_100g                             0.2
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     58.0
+salt_100g                               0.5
+sugars_100g                            58.0
+fiber_100g                              0.0
+energy-kcal_100g                     2427.0
+Name: 76, dtype: float64
+-----------------------
+-----------------------
+Entremets Crème Brulée
+Produits laitiers, Desserts, Produits déshydratés, Desserts lactés, Produits lyophilisés à reconstituer
+http://world-en.openfoodfacts.org/product/0000000491228/entremets-creme-brulee-comme-j-aime
+proteins_100g                         6.8
+fat_100g                             15.3
+saturated-fat_100g                   11.2
+sodium_100g                           0.2
+fruits-vegetables-nuts-dried_100g     0.0
+carbohydrates_100g                   75.5
+salt_100g                             0.5
+sugars_100g                          69.8
+fiber_100g                            0.1
+energy-kcal_100g                      0.0
+Name: 96, dtype: float64
+-----------------------
+-----------------------
+petits légumes sauce provençale et riz
+Undefined
+http://world-en.openfoodfacts.org/product/0000000506632/petits-legumes-sauce-provencale-et-riz
+proteins_100g                          2.2
+fat_100g                              21.0
+saturated-fat_100g                     0.3
+sodium_100g                            0.2
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                    21.1
+salt_100g                              0.5
+sugars_100g                            2.4
+fiber_100g                             0.0
+energy-kcal_100g                     481.0
+Name: 98, dtype: float64
+-----------------------
+-----------------------
+Tarte au Maroilles
+Undefined
+http://world-en.openfoodfacts.org/product/0000003905302/tarte-au-maroilles
+proteins_100g                           8.7
+fat_100g                               17.8
+saturated-fat_100g                     11.6
+sodium_100g                             0.2
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     19.9
+salt_100g                               0.5
+sugars_100g                             1.7
+fiber_100g                              0.0
+energy-kcal_100g                     1159.0
+Name: 115, dtype: float64
+-----------------------
+-----------------------
+Stylo glaçage blanc
+Undefined
+http://world-en.openfoodfacts.org/product/0000010211656/stylo-glacage-blanc
+proteins_100g                           3.0
+fat_100g                               38.0
+saturated-fat_100g                     32.0
+sodium_100g                             0.2
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     58.0
+salt_100g                               0.5
+sugars_100g                            58.0
+fiber_100g                              0.0
+energy-kcal_100g                     2427.0
+Name: 148, dtype: float64
+-----------------------
+salt_100g
+1.3
+-----------------------
+Abondance
+Produits laitiers, Produits fermentés, Produits laitiers fermentés, Fromages, Fromages de France, Abondance
+http://world-en.openfoodfacts.org/product/0000000005005/abondance
+proteins_100g                          25.00
+fat_100g                               33.00
+saturated-fat_100g                     21.60
+sodium_100g                             0.52
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                      0.10
+salt_100g                               1.30
+sugars_100g                             0.10
+fiber_100g                              0.00
+energy-kcal_100g                     1661.00
+Name: 34, dtype: float64
+-----------------------
+-----------------------
+Baguette Poitevin
+Undefined
+http://world-en.openfoodfacts.org/product/0000000012263/baguette-poitevin
+proteins_100g                          9.40
+fat_100g                               5.80
+saturated-fat_100g                     3.70
+sodium_100g                            0.52
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    32.00
+salt_100g                              1.30
+sugars_100g                            2.00
+fiber_100g                             0.00
+energy-kcal_100g                     887.00
+Name: 51, dtype: float64
+-----------------------
+-----------------------
+Moelleux au chocolat
+Undefined
+http://world-en.openfoodfacts.org/product/0000000031141/moelleux-au-chocolat-golden-temple
+proteins_100g                           6.20
+fat_100g                               28.60
+saturated-fat_100g                     18.30
+sodium_100g                             0.52
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     45.90
+salt_100g                               1.30
+sugars_100g                            32.30
+fiber_100g                              7.30
+energy-kcal_100g                     1966.00
+Name: 65, dtype: float64
+-----------------------
+-----------------------
+Couronne des rois
+Undefined
+http://world-en.openfoodfacts.org/product/0000022683489/couronne-des-rois
+proteins_100g                           8.70
+fat_100g                               13.00
+saturated-fat_100g                      7.80
+sodium_100g                             0.52
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     57.00
+salt_100g                               1.30
+sugars_100g                            15.00
+fiber_100g                              0.00
+energy-kcal_100g                     1602.00
+Name: 186, dtype: float64
+-----------------------
+-----------------------
+Cornichons à La Russe Kühne 970 G (530 G égoutté)
+Undefined
+http://world-en.openfoodfacts.org/product/0000040122878/cornichons-a-la-russe-kuhne-970-g-530-g-egoutte
+proteins_100g                          0.90
+fat_100g                               0.20
+saturated-fat_100g                     0.10
+sodium_100g                            0.52
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                     4.00
+salt_100g                              1.30
+sugars_100g                            3.80
+fiber_100g                             0.00
+energy-kcal_100g                     109.00
+Name: 209, dtype: float64
+-----------------------
+salt_100g
+100
+-----------------------
+Reesés puffs
+Undefined
+http://world-en.openfoodfacts.org/product/0016000144811/reeses-puffs-reese-s
+proteins_100g                          2.0
+fat_100g                               4.0
+saturated-fat_100g                     2.0
+sodium_100g                           40.0
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                    16.0
+salt_100g                            100.0
+sugars_100g                            8.0
+fiber_100g                             0.0
+energy-kcal_100g                     146.0
+Name: 1887, dtype: float64
+-----------------------
+-----------------------
+Unsweetenrd Sunflower seed spread
+Undefined
+http://world-en.openfoodfacts.org/product/00580113/unsweetenrd-sunflower-seed-spread-trader-joe-s
+proteins_100g                          21.0
+fat_100g                               48.0
+saturated-fat_100g                      6.0
+sodium_100g                            40.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     12.0
+salt_100g                             100.0
+sugars_100g                             3.0
+fiber_100g                              0.0
+energy-kcal_100g                     2636.0
+Name: 7420, dtype: float64
+-----------------------
+-----------------------
+Cherry cerise jelly powder
+Undefined
+http://world-en.openfoodfacts.org/product/0059749873543/cherry-cerise-jelly-powder-selection
+proteins_100g                           1.0
+fat_100g                                0.0
+saturated-fat_100g                      0.0
+sodium_100g                            40.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     19.0
+salt_100g                             100.0
+sugars_100g                            18.0
+fiber_100g                              0.0
+energy-kcal_100g                     1674.0
+Name: 7742, dtype: float64
+-----------------------
+-----------------------
+Clamato
+Undefined
+http://world-en.openfoodfacts.org/product/0065912006243/clamato-mott-s
+proteins_100g                          1.0
+fat_100g                               0.0
+saturated-fat_100g                     0.0
+sodium_100g                           40.0
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                    12.0
+salt_100g                            100.0
+sugars_100g                           11.0
+fiber_100g                             0.0
+energy-kcal_100g                     251.0
+Name: 8845, dtype: float64
+-----------------------
+-----------------------
+Sea Salt
+Epicerie, Condiments, Sels, Sels marins
+http://world-en.openfoodfacts.org/product/00719599/sea-salt-cook-with-m-s
+proteins_100g                          0.0
+fat_100g                               0.0
+saturated-fat_100g                     0.0
+sodium_100g                           40.0
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                     0.0
+salt_100g                            100.0
+sugars_100g                            0.0
+fiber_100g                             0.0
+energy-kcal_100g                       0.0
+Name: 9951, dtype: float64
+-----------------------
+sugars_100g
+0.7
+-----------------------
+Salade verte
+Undefined
+http://world-en.openfoodfacts.org/product/0000000005081/salade-verte
+proteins_100g                         1.30
+fat_100g                              0.30
+saturated-fat_100g                    0.10
+sodium_100g                           7.32
+fruits-vegetables-nuts-dried_100g     0.00
+carbohydrates_100g                    1.00
+salt_100g                            18.30
+sugars_100g                           0.70
+fiber_100g                            0.00
+energy-kcal_100g                     67.00
+Name: 35, dtype: float64
+-----------------------
+-----------------------
+Pot 100G Moutarde Anglaise Colman
+Undefined
+http://world-en.openfoodfacts.org/product/0000050824939/pot-100g-moutarde-anglaise-colman
+proteins_100g                          6.8
+fat_100g                              12.0
+saturated-fat_100g                    12.0
+sodium_100g                            3.4
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                    13.0
+salt_100g                              8.5
+sugars_100g                            0.7
+fiber_100g                             0.0
+energy-kcal_100g                     816.0
+Name: 222, dtype: float64
+-----------------------
+-----------------------
+Filet de poulet extra tendre thym citron
+Undefined
+http://world-en.openfoodfacts.org/product/00003001/filet-de-poulet-extra-tendre-thym-citron
+proteins_100g                         22.00
+fat_100g                               1.60
+saturated-fat_100g                     0.00
+sodium_100g                            0.52
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                     1.60
+salt_100g                              1.30
+sugars_100g                            0.70
+fiber_100g                             0.00
+energy-kcal_100g                     452.00
+Name: 342, dtype: float64
+-----------------------
+-----------------------
+Ciabatta Rôti de porc moutarde
+Sandwichs
+http://world-en.openfoodfacts.org/product/00014922/ciabatta-roti-de-porc-moutarde-crous-languedoc-roussillon
+proteins_100g                          9.2
+fat_100g                               9.3
+saturated-fat_100g                     1.2
+sodium_100g                            0.4
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                    25.2
+salt_100g                              1.0
+sugars_100g                            0.7
+fiber_100g                             1.6
+energy-kcal_100g                     950.0
+Name: 518, dtype: float64
+-----------------------
+-----------------------
+Tortelloni
+Undefined
+http://world-en.openfoodfacts.org/product/0002000000066/tortelloni
+proteins_100g                          9.0
+fat_100g                               2.4
+saturated-fat_100g                     0.2
+sodium_100g                            0.2
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                    40.5
+salt_100g                              0.5
+sugars_100g                            0.7
+fiber_100g                             0.0
+energy-kcal_100g                     916.0
+Name: 547, dtype: float64
+-----------------------
+sugars_100g
+3.6
+-----------------------
+Paupiettes de chou
+Undefined
+http://world-en.openfoodfacts.org/product/0000069004049/paupiettes-de-chou-bofrost
+proteins_100g                          5.50
+fat_100g                               6.50
+saturated-fat_100g                     2.90
+sodium_100g                            0.36
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                     6.20
+salt_100g                              0.90
+sugars_100g                            3.60
+fiber_100g                             1.50
+energy-kcal_100g                     452.00
+Name: 228, dtype: float64
+-----------------------
+-----------------------
+Purée de potiron et oignons rissolés
+Undefined
+http://world-en.openfoodfacts.org/product/0000069067556/puree-de-potiron-et-oignons-rissoles
+proteins_100g                          1.50
+fat_100g                               2.10
+saturated-fat_100g                     0.90
+sodium_100g                            0.28
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                     8.60
+salt_100g                              0.70
+sugars_100g                            3.60
+fiber_100g                             0.00
+energy-kcal_100g                     268.00
+Name: 255, dtype: float64
+-----------------------
+-----------------------
+Bagnat Fraîcheur
+fr:Pain Bagnat
+http://world-en.openfoodfacts.org/product/00015370/bagnat-fraicheur-crous-languedoc
+proteins_100g                          4.60
+fat_100g                               4.50
+saturated-fat_100g                     1.40
+sodium_100g                            0.28
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    28.60
+salt_100g                              0.70
+sugars_100g                            3.60
+fiber_100g                             2.40
+energy-kcal_100g                     745.00
+Name: 526, dtype: float64
+-----------------------
+-----------------------
+Yaourt nature brebis
+Produits laitiers, Produits fermentés, Produits laitiers fermentés, Yaourts, Yaourts au lait de brebis
+http://world-en.openfoodfacts.org/product/0002000000714/yaourt-nature-brebis-la-bergerie
+proteins_100g                          6.300
+fat_100g                               0.100
+saturated-fat_100g                     0.070
+sodium_100g                            0.052
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                     4.300
+salt_100g                              0.130
+sugars_100g                            3.600
+fiber_100g                             0.000
+energy-kcal_100g                     184.000
+Name: 563, dtype: float64
+-----------------------
+-----------------------
+Soba
+Undefined
+http://world-en.openfoodfacts.org/product/0011152136127/soba-jfc
+proteins_100g                          17.00
+fat_100g                                3.10
+saturated-fat_100g                      0.60
+sodium_100g                             1.68
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     57.00
+salt_100g                               4.20
+sugars_100g                             3.60
+fiber_100g                              0.00
+energy-kcal_100g                     1406.00
+Name: 1213, dtype: float64
+-----------------------
+sugars_100g
+20.0
+-----------------------
+Chouquettes x 30
+Undefined
+http://world-en.openfoodfacts.org/product/0000000001328/chouquettes-x-30
+proteins_100g                          7.8
+fat_100g                              21.0
+saturated-fat_100g                    12.0
+sodium_100g                            0.6
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                    39.0
+salt_100g                              1.5
+sugars_100g                           20.0
+fiber_100g                             0.0
+energy-kcal_100g                     657.0
+Name: 12, dtype: float64
+-----------------------
+-----------------------
+Yaourt caramel beurre salé
+Undefined
+http://world-en.openfoodfacts.org/product/0000001964578/yaourt-caramel-beurre-sale
+proteins_100g                          4.200
+fat_100g                               4.500
+saturated-fat_100g                     2.300
+sodium_100g                            0.072
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                    20.000
+salt_100g                              0.180
+sugars_100g                           20.000
+fiber_100g                             0.000
+energy-kcal_100g                     565.000
+Name: 106, dtype: float64
+-----------------------
+-----------------------
+Preparation biscuits cacao/noisette
+Undefined
+http://world-en.openfoodfacts.org/product/0000010217702/preparation-biscuits-cacao-noisette-alice-delices
+proteins_100g                           3.60
+fat_100g                               24.00
+saturated-fat_100g                     13.00
+sodium_100g                             0.16
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     49.00
+salt_100g                               0.40
+sugars_100g                            20.00
+fiber_100g                              0.00
+energy-kcal_100g                     1803.00
+Name: 162, dtype: float64
+-----------------------
+-----------------------
+4 beignets à la pomme
+Undefined
+http://world-en.openfoodfacts.org/product/0000183013125/4-beignets-a-la-pomme
+proteins_100g                           6.600
+fat_100g                                9.600
+saturated-fat_100g                      1.500
+sodium_100g                             0.288
+fruits-vegetables-nuts-dried_100g       0.000
+carbohydrates_100g                     49.000
+salt_100g                               0.720
+sugars_100g                            20.000
+fiber_100g                              0.000
+energy-kcal_100g                     1297.000
+Name: 329, dtype: float64
+-----------------------
+-----------------------
+Donuts
+Undefined
+http://world-en.openfoodfacts.org/product/0000580019355/donuts
+proteins_100g                           4.60
+fat_100g                               17.00
+saturated-fat_100g                     11.00
+sodium_100g                             0.36
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     50.00
+salt_100g                               0.90
+sugars_100g                            20.00
+fiber_100g                              0.00
+energy-kcal_100g                     1582.00
+Name: 372, dtype: float64
+-----------------------
+sugars_100g
+100
+-----------------------
+Fluffy Stuff Barbe à Papa (big)
+Snacks, Snacks sucrés, Confiseries, Barbes à papa
+http://world-en.openfoodfacts.org/product/0014200003211/fluffy-stuff-barbe-a-papa-big
+proteins_100g                           0.0
+fat_100g                                0.0
+saturated-fat_100g                      0.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                    100.0
+salt_100g                               0.0
+sugars_100g                           100.0
+fiber_100g                              0.0
+energy-kcal_100g                     1590.0
+Name: 1704, dtype: float64
+-----------------------
+-----------------------
+Cotton Candy
+Snacks, Sweet snacks, Confectioneries, Cotton candy
+http://world-en.openfoodfacts.org/product/0014200003259/cotton-candy-charms
+proteins_100g                           0.0
+fat_100g                                0.0
+saturated-fat_100g                      0.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                    100.0
+salt_100g                               0.0
+sugars_100g                           100.0
+fiber_100g                              0.0
+energy-kcal_100g                     1590.0
+Name: 1705, dtype: float64
+-----------------------
+-----------------------
+Charms Fluffy Stuff Strawberry Cotton Candy Snow Balls
+Undefined
+http://world-en.openfoodfacts.org/product/0014200003303/charms-fluffy-stuff-strawberry-cotton-candy-snow-balls
+proteins_100g                           0.0
+fat_100g                                0.0
+saturated-fat_100g                      0.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                    100.0
+salt_100g                               0.0
+sugars_100g                           100.0
+fiber_100g                              0.0
+energy-kcal_100g                     1602.0
+Name: 1707, dtype: float64
+-----------------------
+-----------------------
+Fluffy Stuff North Pole Cotton Candy
+Undefined
+http://world-en.openfoodfacts.org/product/0014200183319/fluffy-stuff-north-pole-cotton-candy
+proteins_100g                           0.0
+fat_100g                                0.0
+saturated-fat_100g                      0.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                    100.0
+salt_100g                               0.0
+sugars_100g                           100.0
+fiber_100g                              0.0
+energy-kcal_100g                     1255.0
+Name: 1709, dtype: float64
+-----------------------
+-----------------------
+Birthday cake cotton candy
+Snacks, Sweet snacks, Confectioneries
+http://world-en.openfoodfacts.org/product/0014200243327/birthday-cake-cotton-candy
+proteins_100g                           0.0
+fat_100g                                0.0
+saturated-fat_100g                      0.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                    100.0
+salt_100g                               0.0
+sugars_100g                           100.0
+fiber_100g                              0.0
+energy-kcal_100g                     1602.0
+Name: 1710, dtype: float64
+-----------------------
+fiber_100g
+0.0
+-----------------------
+Vitória crackers
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000017/vitoria-crackers
+proteins_100g                           7.80
+fat_100g                                7.00
+saturated-fat_100g                      3.08
+sodium_100g                             0.56
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     70.10
+salt_100g                               1.40
+sugars_100g                            15.00
+fiber_100g                              0.00
+energy-kcal_100g                     1569.00
+Name: 0, dtype: float64
+-----------------------
+-----------------------
+ moutarde au moût de raisin 
+Epicerie, Condiments, Sauces, Moutardes
+http://world-en.openfoodfacts.org/product/0000000000100/moutarde-au-mout-de-raisin-courte-paille
+proteins_100g                         5.100000
+fat_100g                              8.200000
+saturated-fat_100g                    2.200000
+sodium_100g                           1.811024
+fruits-vegetables-nuts-dried_100g     0.000000
+carbohydrates_100g                   29.000000
+salt_100g                             4.600000
+sugars_100g                          22.000000
+fiber_100g                            0.000000
+energy-kcal_100g                      0.000000
+Name: 1, dtype: float64
+-----------------------
+-----------------------
+Sauce Sweety chili 0%
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000123/sauce-sweety-chili-0
+proteins_100g                         0.200
+fat_100g                              0.000
+saturated-fat_100g                    0.000
+sodium_100g                           0.816
+fruits-vegetables-nuts-dried_100g     0.000
+carbohydrates_100g                    4.800
+salt_100g                             2.040
+sugars_100g                           0.400
+fiber_100g                            0.000
+energy-kcal_100g                     88.000
+Name: 2, dtype: float64
+-----------------------
+-----------------------
+Mini coco
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000178/mini-coco
+proteins_100g                          2.00
+fat_100g                               3.00
+saturated-fat_100g                     1.00
+sodium_100g                            0.46
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    10.00
+salt_100g                              1.15
+sugars_100g                            3.00
+fiber_100g                             0.00
+energy-kcal_100g                     251.00
+Name: 3, dtype: float64
+-----------------------
+-----------------------
+Salade de carottes râpées
+Plats préparés, Légumes préparés, Carottes râpées, Carottes râpées assaisonnées
+http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees
+proteins_100g                          0.900
+fat_100g                               0.300
+saturated-fat_100g                     0.100
+sodium_100g                            0.168
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                     5.300
+salt_100g                              0.420
+sugars_100g                            3.900
+fiber_100g                             0.000
+energy-kcal_100g                     134.000
+Name: 4, dtype: float64
+-----------------------
+fiber_100g
+0.0
+-----------------------
+Vitória crackers
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000017/vitoria-crackers
+proteins_100g                           7.80
+fat_100g                                7.00
+saturated-fat_100g                      3.08
+sodium_100g                             0.56
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     70.10
+salt_100g                               1.40
+sugars_100g                            15.00
+fiber_100g                              0.00
+energy-kcal_100g                     1569.00
+Name: 0, dtype: float64
+-----------------------
+-----------------------
+ moutarde au moût de raisin 
+Epicerie, Condiments, Sauces, Moutardes
+http://world-en.openfoodfacts.org/product/0000000000100/moutarde-au-mout-de-raisin-courte-paille
+proteins_100g                         5.100000
+fat_100g                              8.200000
+saturated-fat_100g                    2.200000
+sodium_100g                           1.811024
+fruits-vegetables-nuts-dried_100g     0.000000
+carbohydrates_100g                   29.000000
+salt_100g                             4.600000
+sugars_100g                          22.000000
+fiber_100g                            0.000000
+energy-kcal_100g                      0.000000
+Name: 1, dtype: float64
+-----------------------
+-----------------------
+Sauce Sweety chili 0%
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000123/sauce-sweety-chili-0
+proteins_100g                         0.200
+fat_100g                              0.000
+saturated-fat_100g                    0.000
+sodium_100g                           0.816
+fruits-vegetables-nuts-dried_100g     0.000
+carbohydrates_100g                    4.800
+salt_100g                             2.040
+sugars_100g                           0.400
+fiber_100g                            0.000
+energy-kcal_100g                     88.000
+Name: 2, dtype: float64
+-----------------------
+-----------------------
+Mini coco
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000178/mini-coco
+proteins_100g                          2.00
+fat_100g                               3.00
+saturated-fat_100g                     1.00
+sodium_100g                            0.46
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    10.00
+salt_100g                              1.15
+sugars_100g                            3.00
+fiber_100g                             0.00
+energy-kcal_100g                     251.00
+Name: 3, dtype: float64
+-----------------------
+-----------------------
+Salade de carottes râpées
+Plats préparés, Légumes préparés, Carottes râpées, Carottes râpées assaisonnées
+http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees
+proteins_100g                          0.900
+fat_100g                               0.300
+saturated-fat_100g                     0.100
+sodium_100g                            0.168
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                     5.300
+salt_100g                              0.420
+sugars_100g                            3.900
+fiber_100g                             0.000
+energy-kcal_100g                     134.000
+Name: 4, dtype: float64
+-----------------------
+fiber_100g
+0.0
+-----------------------
+Vitória crackers
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000017/vitoria-crackers
+proteins_100g                           7.80
+fat_100g                                7.00
+saturated-fat_100g                      3.08
+sodium_100g                             0.56
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     70.10
+salt_100g                               1.40
+sugars_100g                            15.00
+fiber_100g                              0.00
+energy-kcal_100g                     1569.00
+Name: 0, dtype: float64
+-----------------------
+-----------------------
+ moutarde au moût de raisin 
+Epicerie, Condiments, Sauces, Moutardes
+http://world-en.openfoodfacts.org/product/0000000000100/moutarde-au-mout-de-raisin-courte-paille
+proteins_100g                         5.100000
+fat_100g                              8.200000
+saturated-fat_100g                    2.200000
+sodium_100g                           1.811024
+fruits-vegetables-nuts-dried_100g     0.000000
+carbohydrates_100g                   29.000000
+salt_100g                             4.600000
+sugars_100g                          22.000000
+fiber_100g                            0.000000
+energy-kcal_100g                      0.000000
+Name: 1, dtype: float64
+-----------------------
+-----------------------
+Sauce Sweety chili 0%
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000123/sauce-sweety-chili-0
+proteins_100g                         0.200
+fat_100g                              0.000
+saturated-fat_100g                    0.000
+sodium_100g                           0.816
+fruits-vegetables-nuts-dried_100g     0.000
+carbohydrates_100g                    4.800
+salt_100g                             2.040
+sugars_100g                           0.400
+fiber_100g                            0.000
+energy-kcal_100g                     88.000
+Name: 2, dtype: float64
+-----------------------
+-----------------------
+Mini coco
+Undefined
+http://world-en.openfoodfacts.org/product/0000000000178/mini-coco
+proteins_100g                          2.00
+fat_100g                               3.00
+saturated-fat_100g                     1.00
+sodium_100g                            0.46
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                    10.00
+salt_100g                              1.15
+sugars_100g                            3.00
+fiber_100g                             0.00
+energy-kcal_100g                     251.00
+Name: 3, dtype: float64
+-----------------------
+-----------------------
+Salade de carottes râpées
+Plats préparés, Légumes préparés, Carottes râpées, Carottes râpées assaisonnées
+http://world-en.openfoodfacts.org/product/0000000000949/salade-de-carottes-rapees
+proteins_100g                          0.900
+fat_100g                               0.300
+saturated-fat_100g                     0.100
+sodium_100g                            0.168
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                     5.300
+salt_100g                              0.420
+sugars_100g                            3.900
+fiber_100g                             0.000
+energy-kcal_100g                     134.000
+Name: 4, dtype: float64
+-----------------------
+fiber_100g
+100
+-----------------------
+Gris
+Boissons
+http://world-en.openfoodfacts.org/product/20294588/gris-paysan-breton
+proteins_100g                          1.0
+fat_100g                              10.0
+saturated-fat_100g                    10.0
+sodium_100g                            4.0
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                    10.0
+salt_100g                             10.0
+sugars_100g                            1.0
+fiber_100g                           100.0
+energy-kcal_100g                      42.0
+Name: 54682, dtype: float64
+-----------------------
+-----------------------
+Infusion Tilleul
+Boissons
+http://world-en.openfoodfacts.org/product/26033235/infusion-tilleul-westminster
+proteins_100g                          1.0
+fat_100g                               1.0
+saturated-fat_100g                     1.0
+sodium_100g                            0.0
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                     1.0
+salt_100g                              0.0
+sugars_100g                            1.0
+fiber_100g                           100.0
+energy-kcal_100g                       4.0
+Name: 87599, dtype: float64
+-----------------------
+-----------------------
+Undefined
+Aliments et boissons à base de végétaux, Aliments d'origine végétale, Aliments à base de fruits et de légumes, Surgelés, Légumes et dérivés, Aliments à base de plantes surgelés, Légumes surgelés, Légumes-feuilles, Épinards, Épinards surgelés
+http://world-en.openfoodfacts.org/product/2863310500/kre-alkalyn
+proteins_100g                         10.0
+fat_100g                              10.0
+saturated-fat_100g                     1.0
+sodium_100g                           40.0
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                     1.0
+salt_100g                            100.0
+sugars_100g                            1.0
+fiber_100g                           100.0
+energy-kcal_100g                      42.0
+Name: 96537, dtype: float64
+-----------------------
+-----------------------
+Dr-104
+Undefined
+http://world-en.openfoodfacts.org/product/3050001301016/dr-104-dietactive
+proteins_100g                        100.0
+fat_100g                               0.0
+saturated-fat_100g                     0.0
+sodium_100g                            0.0
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                     0.0
+salt_100g                              0.0
+sugars_100g                            0.0
+fiber_100g                           100.0
+energy-kcal_100g                       0.0
+Name: 110641, dtype: float64
+-----------------------
+-----------------------
+Tisane de noël
+Boissons, Boissons sans sucre ajouté
+http://world-en.openfoodfacts.org/product/3259920055509/tisane-de-noel-dammann-freres
+proteins_100g                         25.0
+fat_100g                               1.0
+saturated-fat_100g                     1.0
+sodium_100g                            0.8
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                     9.0
+salt_100g                              2.0
+sugars_100g                            5.0
+fiber_100g                           100.0
+energy-kcal_100g                       4.0
+Name: 172554, dtype: float64
+-----------------------
+energy-kcal_100g
+343.0
+-----------------------
+Crevettes nordiques
+Produits de la mer, Crustacés, Crevettes, Crevettes nordiques
+http://world-en.openfoodfacts.org/product/0002000008772/crevettes-nordiques
+proteins_100g                         19.00
+fat_100g                               0.70
+saturated-fat_100g                     0.20
+sodium_100g                            0.72
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                     0.00
+salt_100g                              1.80
+sugars_100g                            0.00
+fiber_100g                             0.00
+energy-kcal_100g                     343.00
+Name: 638, dtype: float64
+-----------------------
+-----------------------
+Rope grown scottish mussels
+Undefined
+http://world-en.openfoodfacts.org/product/00720618/rope-grown-scottish-mussels
+proteins_100g                          7.90
+fat_100g                               3.10
+saturated-fat_100g                     1.60
+sodium_100g                            0.32
+fruits-vegetables-nuts-dried_100g      0.00
+carbohydrates_100g                     5.10
+salt_100g                              0.80
+sugars_100g                            0.50
+fiber_100g                             0.00
+energy-kcal_100g                     343.00
+Name: 9963, dtype: float64
+-----------------------
+-----------------------
+Premium tofu
+Aliments et boissons à base de végétaux, Aliments d'origine végétale, Légumineuses et dérivés, Substituts de viande, Tofu, Meats
+http://world-en.openfoodfacts.org/product/0076371011167/premium-tofu-house-foods-corporation
+proteins_100g                          8.240
+fat_100g                               4.710
+saturated-fat_100g                     0.590
+sodium_100g                            0.012
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                     2.350
+salt_100g                              0.030
+sugars_100g                            0.000
+fiber_100g                             2.400
+energy-kcal_100g                     343.000
+Name: 10573, dtype: float64
+-----------------------
+-----------------------
+Tofu Firm Premium
+Aliments et boissons à base de végétaux,Aliments d'origine végétale,Légumineuses et dérivés,Substituts de viande,Tofu
+http://world-en.openfoodfacts.org/product/0076371015332/tofu-firm-premium-house-foods
+proteins_100g                          8.500
+fat_100g                               4.900
+saturated-fat_100g                     0.800
+sodium_100g                            0.012
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                     0.500
+salt_100g                              0.030
+sugars_100g                            0.500
+fiber_100g                             2.000
+energy-kcal_100g                     343.000
+Name: 10577, dtype: float64
+-----------------------
+-----------------------
+SEAWEED CRISPS - Chips d'Algues
+Snacks, Snacks salés, Apéritif, Biscuits apéritifs
+http://world-en.openfoodfacts.org/product/00799898/seaweed-crisps-chips-d-algues-bibigo
+proteins_100g                          0.9
+fat_100g                               1.6
+saturated-fat_100g                     0.2
+sodium_100g                            0.2
+fruits-vegetables-nuts-dried_100g      0.0
+carbohydrates_100g                    16.0
+salt_100g                              0.5
+sugars_100g                            1.6
+fiber_100g                             0.0
+energy-kcal_100g                     343.0
+Name: 11181, dtype: float64
+-----------------------
+energy-kcal_100g
+1029.0
+-----------------------
+Tarte aux abricots
+Tartes, Tartes sucrées, Tartes aux abricots
+http://world-en.openfoodfacts.org/product/0000069168048/tarte-aux-abricots
+proteins_100g                           3.300
+fat_100g                                8.000
+saturated-fat_100g                      4.900
+sodium_100g                             0.052
+fruits-vegetables-nuts-dried_100g       0.000
+carbohydrates_100g                     40.000
+salt_100g                               0.130
+sugars_100g                            25.000
+fiber_100g                              0.000
+energy-kcal_100g                     1029.000
+Name: 296, dtype: float64
+-----------------------
+-----------------------
+Pad thai kit
+Undefined
+http://world-en.openfoodfacts.org/product/00320146/pad-thai-kit
+proteins_100g                           0.600
+fat_100g                               10.200
+saturated-fat_100g                      1.000
+sodium_100g                             1.012
+fruits-vegetables-nuts-dried_100g       0.000
+carbohydrates_100g                     36.800
+salt_100g                               2.530
+sugars_100g                            25.000
+fiber_100g                              0.000
+energy-kcal_100g                     1029.000
+Name: 3977, dtype: float64
+-----------------------
+-----------------------
+Marmelade d'Orange Amère
+en:bigarade-orange-marmelades
+http://world-en.openfoodfacts.org/product/0059471312020/marmelade-d-orange-amere
+proteins_100g                           0.0
+fat_100g                                0.0
+saturated-fat_100g                      0.0
+sodium_100g                             0.0
+fruits-vegetables-nuts-dried_100g       0.0
+carbohydrates_100g                     61.0
+salt_100g                               0.0
+sugars_100g                            60.0
+fiber_100g                              0.0
+energy-kcal_100g                     1029.0
+Name: 7662, dtype: float64
+-----------------------
+-----------------------
+Original english muffins
+Plant-based foods and beverages, Plant-based foods, Snacks, Cereals and potatoes, Sweet snacks, Biscuits and cakes, Breads, Pastries, Special breads, English muffins
+http://world-en.openfoodfacts.org/product/0071479000013/original-english-muffins-bays
+proteins_100g                           8.7700
+fat_100g                                1.7500
+saturated-fat_100g                      0.0000
+sodium_100g                             0.9470
+fruits-vegetables-nuts-dried_100g       0.0000
+carbohydrates_100g                     45.6100
+salt_100g                               2.3675
+sugars_100g                             3.5100
+fiber_100g                              1.8000
+energy-kcal_100g                     1029.0000
+Name: 9837, dtype: float64
+-----------------------
+-----------------------
+Satay Soup For Hot Pot (2.6oz) [12 Units] By Lee Kum Kee.
+Undefined
+http://world-en.openfoodfacts.org/product/0078895122022/satay-soup-for-hot-pot-2-6oz-12-units-by-lee-kum-kee
+proteins_100g                          13.00
+fat_100g                               14.00
+saturated-fat_100g                      3.80
+sodium_100g                             6.08
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     15.00
+salt_100g                              15.20
+sugars_100g                             7.40
+fiber_100g                              0.00
+energy-kcal_100g                     1029.00
+Name: 10974, dtype: float64
+-----------------------
+energy-kcal_100g
+1648.0
+-----------------------
+4 Beignets parfum chocolat-noisette *4
+Undefined
+http://world-en.openfoodfacts.org/product/0000181009847/4-beignets-parfum-chocolat-noisette-4
+proteins_100g                           6.70
+fat_100g                               19.00
+saturated-fat_100g                      2.10
+sodium_100g                             0.28
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     48.00
+salt_100g                               0.70
+sugars_100g                            19.00
+fiber_100g                              0.00
+energy-kcal_100g                     1648.00
+Name: 328, dtype: float64
+-----------------------
+-----------------------
+Betty Crocker Super Moist cake Dark chocolate
+Undefined
+http://world-en.openfoodfacts.org/product/0016000438309/betty-crocker-super-moist-cake-dark-chocolate
+proteins_100g                           4.100
+fat_100g                                6.400
+saturated-fat_100g                      3.100
+sodium_100g                             0.732
+fruits-vegetables-nuts-dried_100g       0.000
+carbohydrates_100g                     78.800
+salt_100g                               1.830
+sugars_100g                            50.600
+fiber_100g                              0.000
+energy-kcal_100g                     1648.000
+Name: 1946, dtype: float64
+-----------------------
+-----------------------
+Sugar free
+Undefined
+http://world-en.openfoodfacts.org/product/0025899431148/sugar-free
+proteins_100g                           6.00
+fat_100g                                9.00
+saturated-fat_100g                      4.55
+sodium_100g                             0.00
+fruits-vegetables-nuts-dried_100g       0.00
+carbohydrates_100g                     78.80
+salt_100g                               0.00
+sugars_100g                             0.00
+fiber_100g                              0.00
+energy-kcal_100g                     1648.00
+Name: 3285, dtype: float64
+-----------------------
+-----------------------
+Toaster pastries, frosted blueberry
+Biscuits and cakes,Pies,Pastries,Sweet pies
+http://world-en.openfoodfacts.org/product/0038000310317/toaster-pastries-frosted-blueberry-kellogg-s
+proteins_100g                           3.850
+fat_100g                                9.620
+saturated-fat_100g                      2.880
+sodium_100g                             0.318
+fruits-vegetables-nuts-dried_100g       0.000
+carbohydrates_100g                     73.080
+salt_100g                               0.795
+sugars_100g                            31.730
+fiber_100g                              1.000
+energy-kcal_100g                     1648.000
+Name: 4708, dtype: float64
+-----------------------
+-----------------------
+Toasted rice cereal
+Plant-based foods and beverages,Plant-based foods,Cereals and potatoes,Cereals and their products
+http://world-en.openfoodfacts.org/product/0038000318467/toasted-rice-cereal-kellogg-s
+proteins_100g                           6.0600
+fat_100g                                0.0000
+saturated-fat_100g                      0.0000
+sodium_100g                             0.4850
+fruits-vegetables-nuts-dried_100g       0.0000
+carbohydrates_100g                     87.8800
+salt_100g                               1.2125
+sugars_100g                            12.1200
+fiber_100g                              0.0000
+energy-kcal_100g                     1648.0000
+Name: 4717, dtype: float64
+-----------------------
+energy-kcal_100g
+100
+-----------------------
+Agua fresca
+Undefined
+http://world-en.openfoodfacts.org/product/00152037/agua-fresca
+proteins_100g                          0.600
+fat_100g                               0.200
+saturated-fat_100g                     0.100
+sodium_100g                            0.012
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                     5.000
+salt_100g                              0.030
+sugars_100g                            3.700
+fiber_100g                             0.000
+energy-kcal_100g                     100.000
+Name: 1788, dtype: float64
+-----------------------
+-----------------------
+Del monte, diced tomatoes
+en:canned-tomatoes
+http://world-en.openfoodfacts.org/product/0024000012139/del-monte-diced-tomatoes-del-monte-quality
+proteins_100g                          0.7900
+fat_100g                               0.0000
+saturated-fat_100g                     0.0000
+sodium_100g                            0.1030
+fruits-vegetables-nuts-dried_100g      0.0000
+carbohydrates_100g                     4.7600
+salt_100g                              0.2575
+sugars_100g                            2.3800
+fiber_100g                             0.8000
+energy-kcal_100g                     100.0000
+Name: 2949, dtype: float64
+-----------------------
+-----------------------
+Champignons Blancs (chopine)
+Undefined
+http://world-en.openfoodfacts.org/product/0033383450803/champignons-blancs-chopine
+proteins_100g                          1.600
+fat_100g                               0.000
+saturated-fat_100g                     0.000
+sodium_100g                            0.076
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                     4.800
+salt_100g                              0.190
+sugars_100g                            4.800
+fiber_100g                             0.000
+energy-kcal_100g                     100.000
+Name: 4095, dtype: float64
+-----------------------
+-----------------------
+Classic spinach
+Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods
+http://world-en.openfoodfacts.org/product/0033383652016/classic-spinach
+proteins_100g                          2.3500
+fat_100g                               0.0000
+saturated-fat_100g                     0.0000
+sodium_100g                            0.0790
+fruits-vegetables-nuts-dried_100g      0.0000
+carbohydrates_100g                     3.5300
+salt_100g                              0.1975
+sugars_100g                            0.0000
+fiber_100g                             2.4000
+energy-kcal_100g                     100.0000
+Name: 4096, dtype: float64
+-----------------------
+-----------------------
+Blue Diamond Almond Breeze Original Ambient 1L
+Undefined
+http://world-en.openfoodfacts.org/product/0041570080115/blue-diamond-almond-breeze-original-ambient-1l
+proteins_100g                          0.500
+fat_100g                               1.100
+saturated-fat_100g                     0.100
+sodium_100g                            0.052
+fruits-vegetables-nuts-dried_100g      0.000
+carbohydrates_100g                     2.900
+salt_100g                              0.130
+sugars_100g                            2.800
+fiber_100g                             0.000
+energy-kcal_100g                     100.000
+Name: 5478, dtype: float64
+-----------------------
