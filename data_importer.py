@@ -88,6 +88,7 @@ class DataImporter:
             if column != 'energy-kcal_100g':
                 df = self.random_data[self.random_data[column] > 100]
                 print(df)
+                # comparer les valeurs de visue puis par rapport aux autres row similaires. sans la valeur qui est trop haute
                 if counter == 0:
                     df.to_csv('data/out.csv', mode='a', index=False, encoding='utf-8')
                 else:
@@ -108,7 +109,7 @@ class DataImporter:
 
     def save_new_dataset(self):
         self.fill_na()
-        self.random_data.to_csv('out.csv')
+        self.random_data.to_csv('preprocess_2.csv')
 
 '''
 USAGE
