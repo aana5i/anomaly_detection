@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import pylab
 pylab.rcParams.update({'font.size': 14})
 
-preprocess_data_path = 'data/preprocess_data.csv'
+preprocess_data_path = 'data/preprocess_data2.csv'
 
 
 class ProcessDataset:
@@ -78,7 +78,8 @@ class ProcessDataset:
             ax.text(1, y, '')
         ax.boxplot(self.data[param])
         ax.set_ylabel(param)
-        plt.savefig(f'save_plot/{param}-boxPlot.png')
+        plt.figtext(0.99, -0.35, f'{self.result_text}', horizontalalignment='right')
+        plt.savefig(f'save_plot/{param}-boxPlot.png', bbox_inches="tight")
         # plt.show()
         '''
         faire un boxplot de tout et un séparé pour chaque
@@ -86,12 +87,14 @@ class ProcessDataset:
 
     def gen_hist(self, param):
         fig, ax = plt.subplots()
-        ax.hist(self.data[param], density=True, bins=30, range=(0,110))
+
+        ax.hist(self.data[param], density=True, bins=30, range=(0, self.data[param].max() + 10))
         ax.set_title(param)
         # ax.set_xlabel('/100g')
         # ax.set_ylabel('%')
-        plt.savefig(f'save_plot/{param}-histPlot.png')
-        plt.figtext(0.99, -0.4, f'{self.result_text}', horizontalalignment='right')
+        plt.figtext(0.99, -0.5, f'{self.result_text}', horizontalalignment='right')
+        plt.savefig(f'save_plot/{param}-histPlot.png', bbox_inches="tight")
+
         # plt.show()
         '''
         faire un hist de tout et un séparé pour chaque

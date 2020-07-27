@@ -228,7 +228,7 @@ class DataImporter:
         return self.random_data
 
     def save_new_dataset(self):
-        self.random_data.to_csv('data/preprocess_2.csv', index=False)
+        self.random_data.to_csv('data/preprocess_data2.csv', index=False, encoding='utf-8')
 
     @staticmethod
     def get_around_values(value, col, percent=90):
