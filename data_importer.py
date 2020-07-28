@@ -191,10 +191,18 @@ class DataImporter:
                                  check si les autres valeurs sont egales, si elles le sont, modifier la valeurs de la column cible pour qu'elle soit le mean a celle comparer ::
                                  !! ne pas faire : sinon verifier si la valeur de la column cible est egale a la valeur comparer || diviser par 10,100
                                  si non modifie, supprimer et tenir le compte.
+                                  !!!
+                                  Verifier les cas qui reviennent en valueerror except 
+                                  !!!
                                 '''
 
                             print('------------\n')
                         # i += 1
+                else:
+                    # gerer le cas energie kcal
+                    pass
+
+
         except ValueError as e:
             print(e)
 
