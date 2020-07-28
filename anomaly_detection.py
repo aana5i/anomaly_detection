@@ -65,9 +65,10 @@ class ProcessDataset:
             self.result_text += f"-----------------------\n{first_row}\n{second_row}\n{third_row}\n{fourth_row}\n{five_row}\n-----------------------\n"
 
             self.to_text(f'save_plot/result-text.txt', self.result_text)
+            self.get_product_near_quantiles(qv1, qv2, qv3, param)
+            self.print_product_names()
             self.gen_boxplot(param)
             self.gen_hist(param)
-            self.get_product_near_quantiles(qv1, qv2, qv3, param)
 
     # créer le box plot
     # les moustaches sont les calculs (qv1 - dv_limit (limité à la valeur min du jeu de données)) et (dv3 + dv_limit)
@@ -78,7 +79,8 @@ class ProcessDataset:
             ax.text(1, y, '')
         ax.boxplot(self.data[param])
         ax.set_ylabel(param)
-        plt.figtext(0.99, -0.35, f'{self.result_text}', horizontalalignment='right')
+        plt.figtext(1, 0.5, f'{self.result_text}', horizontalalignment='left')
+        plt.figtext(-0.1, 0.1, f'{self.pname_result}', horizontalalignment='right')
         plt.savefig(f'save_plot/{param}-boxPlot.png', bbox_inches="tight")
         # plt.show()
         '''
@@ -92,7 +94,8 @@ class ProcessDataset:
         ax.set_title(param)
         # ax.set_xlabel('/100g')
         # ax.set_ylabel('%')
-        plt.figtext(0.99, -0.5, f'{self.result_text}', horizontalalignment='right')
+        plt.figtext(1, 0.4, f'{self.result_text}', horizontalalignment='left')
+        plt.figtext(-0.1, -0.1, f'{self.pname_result}', horizontalalignment='right')
         plt.savefig(f'save_plot/{param}-histPlot.png', bbox_inches="tight")
 
         # plt.show()
@@ -100,24 +103,47 @@ class ProcessDataset:
         faire un hist de tout et un séparé pour chaque
         '''
 
-    def print_result(self, quantile):
+    def print_result(self, quantile, counter, param):
         result = ''
+        tmp = []
+        _key = ['qv1', 'qv2', 'qv3', '100']
+        key = _key[counter]
         for qant in quantile:
-            result += f"-----------------------\n{self.product_names.iloc[qant]['product_name']}" \
+            tmp.append(self.product_names.iloc[qant]['product_name'])
+            result += f"-----------------------\n{self.p_name}" \
                 f"\n{self.urls.iloc[qant]['categories']}" \
                 f"\n{self.urls.iloc[qant]['url']}" \
                 f"\n{self.data.iloc[qant]}" \
                 f"\n-----------------------\n"
+            key = self.data.iloc[qant][param]
+        self.p_name[key] = tmp
         return result
 
     # afficher des produits proches des quantiles
     def get_product_near_quantiles(self, qv1, qv2, qv3, param):
         _list = [qv1, qv2, qv3, 100]
-        for _l in _list:
+        self.p_name = {}
+        for counter, _l in enumerate(_list):
             result = f'{param}\n{str(_l)}\n'
-            _num = self.data.index[self.data[param] == _l].tolist()[:5]
-            result += self.print_result(_num)
+            _up, _down = self.get_around_values(_l)
+            _num = self.data.index[self.data[param].between(_down, _up)].tolist()[:5]
+            result += self.print_result(_num, counter, param)
             self.to_text(f'save_plot/quantiles.txt', result)
+
+    def print_product_names(self):
+        result = ''
+        for k, v in self.p_name.items():
+            result += f'{k}:\n'
+            for _v in v:
+                result += f'{_v}\n'
+        self.pname_result = result
+
+    @staticmethod
+    def get_around_values(value, percent=90):
+        _up = [100.00 if round(value + (value - ((percent * value) / 100.0)), 2) > 100 else round(value + (value - ((percent * value) / 100.0)), 2)][0]
+        _down = round(value - (value - ((percent * value) / 100.0)), 2)
+        return _up, _down
+
 
 
 # df = pd.read_csv('data/preprocess_data.csv', encoding='utf-8')
