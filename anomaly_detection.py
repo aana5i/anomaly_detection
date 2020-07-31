@@ -2,6 +2,7 @@
 
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 import pylab
 pylab.rcParams.update({'font.size': 14})
 
@@ -11,31 +12,49 @@ preprocess_data_path = 'data/preprocess_data2.csv'
 class ProcessDataset:
     def __init__(self, preprocess_data_path):
         self.df = pd.read_csv(preprocess_data_path, encoding='utf-8')  # importation du CSV
-        self.drop_high_value()
 
     @staticmethod
     def to_text(path, data, mode='a', encoding='utf-8'):
+        '''
+        save to text
+        :param path:
+        :param data:
+        :param mode:
+        :param encoding:
+        :return:
+        '''
         _encoding = ['utf-8', 'shift_jis']
         with open(path, mode, encoding=[_encoding[encoding] if isinstance(encoding, int) else encoding][0]) as f:
             f.write(data)
 
-    def drop_high_value(self):
-        self.df = self.df.drop(index=309192)  #drop la value trop élévé de proteins
+    # def drop_high_value(self):
+    #     self.df = self.df.drop(index=309192)  #drop la value trop élévé de proteins
 
     def prepare_dataset(self):
-        # sauvegarder les variables qualitatives variables (ID, categories)
+        '''
+        sauvegarder les variables qualitatives variables (ID, categories)
+        sauvegarder les variables quantitatives
+        :return:
+        '''
+        # variables qualitatives
         self.qualitative = self.df['Unnamed: 0']
         self.urls = self.df[['url', 'categories']]
         self.product_names = self.df[['product_name']]
-        # sauvegarder les variables quantitatives
+
+        # variables quantitatives
         self.data = self.df.loc[:, 'proteins_100g': 'energy-kcal_100g']
-        self.data = self.data.fillna(0)
+        # self.data = self.data.fillna(0)
 
     def process_data(self):
-        self.prepare_dataset()
+        '''
 
-        params = [column for column in self.data.columns]
-        for param in params:
+        :return:
+        '''
+        self.prepare_dataset()
+        self.params = [column for column in self.data.columns]
+        self._done = []  # garder
+
+        for param in self.params:
             # trouver les quantiles et l’écart interquartile
             qv1 = self.data[param].quantile(0.25)
             qv2 = self.data[param].quantile(0.5)
@@ -67,8 +86,11 @@ class ProcessDataset:
             self.to_text(f'save_plot/result-text.txt', self.result_text)
             self.get_product_near_quantiles(qv1, qv2, qv3, param)
             self.print_product_names()
-            self.gen_boxplot(param)
-            self.gen_hist(param)
+
+            # gen plot
+            # self.gen_boxplot(param)
+            # self.gen_hist(param)
+            self.gen_pairplot(param)
 
     # créer le box plot
     # les moustaches sont les calculs (qv1 - dv_limit (limité à la valeur min du jeu de données)) et (dv3 + dv_limit)
@@ -89,7 +111,6 @@ class ProcessDataset:
 
     def gen_hist(self, param):
         fig, ax = plt.subplots()
-
         ax.hist(self.data[param], density=True, bins=30, range=(0, self.data[param].max() + 10))
         ax.set_title(param)
         # ax.set_xlabel('/100g')
@@ -101,6 +122,29 @@ class ProcessDataset:
         # plt.show()
         '''
         faire un hist de tout et un séparé pour chaque
+        '''
+
+    def gen_pairplot(self, param):
+        sns.set(style="ticks", color_codes=True)
+        for column in self.params:
+            if column != param and column not in self._done:
+                tmp_data = self.data[[param, column]]
+                sns.pairplot(tmp_data)
+                plt.savefig(f'save_plot/pairPlot_{param}-{column}.png', bbox_inches="tight")
+        self._done.append(param)
+
+    def gen_full_data_set_pair_plot(self):
+        self.prepare_dataset()
+        sns.pairplot(self.data)
+        plt.savefig(f'save_plot/pairPlot_data-set.png', bbox_inches="tight")
+
+        '''
+        prendre la valeur en carbohydrate, la mettre sur l'axe des ordonée du graphe, prendre la valeur des fibres pour l'axe des absysse 
+
+        si ligne transversale, => correlation 
+        ce pairplot  sert a reperrer des correlation        
+        
+        si "triangle" plus de ( partie occupé par les points ) que de l'autre partie globalement )
         '''
 
     def print_result(self, quantile, counter, param):
@@ -145,129 +189,9 @@ class ProcessDataset:
         return _up, _down
 
 
-
-# df = pd.read_csv('data/preprocess_data.csv', encoding='utf-8')
-#
-# # drop the bad index after gen_boxplot  ne pas faire, on en est a detecter les anomalies ici
-# # print(df.sort_values(by='proteins_100g', ascending=True))
-# # print(df[df['Unnamed: 0'] == 786748]['proteins_100g'])
-# df = df.drop(index=309192)  #drop la value trop élévé de proteins
-#
-# # sauvegarder les variables qualitatives variables (ID, categories)
-# qualitative = df['Unnamed: 0']
-# urls = df[['url', 'categories']]
-# product_names = df[['product_name']]
-# # sauvegarder les variables quantitatives
-# data = df.loc[:, 'proteins_100g': 'energy-kcal_100g']
-# data = data.fillna(0)
-#
-#
-# # ANALYSES
-# # Outliers Univarié
-# # Créer un boxp lot des outlers univarié de 'proteins_100g'
-# param = 'proteins_100g'
-#
-#
-# def process_data(param):
-#     # trouver les quantiles et l’écart interquartile
-#     qv1 = data[param].quantile(0.25)
-#     qv2 = data[param].quantile(0.5)
-#     qv3 = data[param].quantile(0.75)
-#     qv_limit = 1.5 * (qv3 - qv1)  # indicateur d'écartement
-#     outliers_sum = (data[param] > (qv3 + qv_limit)).sum()
-#
-#     # trouver la position des outliers et utiliser les variables qualitatives comme labels
-#     outliers_mask = (data[param] > qv3 + qv_limit) | (data[param] < qv1 - qv_limit)
-#     outliers_data = data[param][outliers_mask]
-#     outliers_name = qualitative[outliers_mask]
-#
-#     # print("\n-----------------------")
-#     # print(f'sorting {param}')
-#     # print(data[param].sort_values(ascending=True))
-#     # print("-----------------------\n")
-#
-#     first_row = f'first quarter: {qv1}\nfirst quarter - quarter limit: {qv1 - qv_limit}, {round((data[param] < qv1 - qv_limit).sum()/data[param].shape[0] * 100, 2)}%' #  25% des valeurs sont en dessous de la valeur du premier quartile
-#     second_row = f'second quarter: {qv2}'  #  50% des valeurs sont en dessous de la valeur du deuxieme quartile
-#     third_row = f'third quarter: {qv3} \nthird quarter + quarter limit: {qv3 + qv_limit}'  #  75% des valeurs sont en dessous de la valeur du troisieme quartile
-#     fourth_row = f'quarter limit: {qv_limit}'
-#     five_row = f'over q3+qv_limit: {outliers_sum}, {round(outliers_sum/data[param].shape[0] * 100, 2)}%'
-#
-#     # print(data[param][outliers_mask == True].drop_duplicates().sort_values(ascending=True))
-#
-#     result_text = f'{param}\n'
-#     result_text += f"-----------------------\n{first_row}\n{second_row}\n{third_row}\n{fourth_row}\n{five_row}\n-----------------------\n"
-#     print(result_text)
-#
-# def to_text(path, data, mode='a', encoding='utf-8'):
-#     _encoding = ['utf-8', 'shift_jis']
-#     with open(path, mode, encoding=[_encoding[encoding] if isinstance(encoding, int) else encoding][0]) as f:
-#         f.write(data)
-#
-#
-# to_text(f'save_plot/result-text.txt', result_text)
-#
-# '''
-# boucler pour chaque param et sauvegarder le tout dans un seul fichier texte
-# '''
-#
-# # créer le box plot
-# # les moustaches sont les calculs (qv1 - dv_limit (limité à la valeur min du jeu de données)) et (dv3 + dv_limit)
-# def gen_boxplot():
-#     fig = pylab.figure(figsize=(4, 6))
-#     ax = fig.add_subplot(1, 1, 1)
-#     for y in outliers_data: # zip name
-#         ax.text(1, y, '')
-#     ax.boxplot(data[param])
-#     ax.set_ylabel(param)
-#     plt.savefig(f'save_plot/{param}-boxPlot.png')
-#     plt.show()
-#     '''
-#     faire un boxplot de tout et un séparé pour chaque
-#     '''
-#
-# # gen_boxplot()
-#
-#
-# def gen_hist():
-#     fig, ax = plt.subplots()
-#     ax.hist(data[param], density=True, bins=30, range=(0,110))
-#     ax.set_title(param)
-#     # ax.set_xlabel('/100g')
-#     # ax.set_ylabel('%')
-#     plt.savefig(f'save_plot/{param}-histPlot.png')
-#     plt.figtext(0.99, -0.4, f'{result_text}', horizontalalignment='right')
-#     plt.show()
-#     '''
-#     faire un hist de tout et un séparé pour chaque
-#     '''
-#
-#
-# def print_result(quantile):
-#     result = ''
-#     for qant in quantile:
-#         result += f"-----------------------\n{product_names.iloc[qant]['product_name']}"\
-#             f"\n{urls.iloc[qant]['categories']}" \
-#             f"\n{urls.iloc[qant]['url']}" \
-#             f"\n{data.iloc[qant]}" \
-#             f"\n-----------------------\n"
-#     return result
-#
-#
-# # afficher des produits proches des quantiles
-# def get_product_near_quantiles():
-#     _list = [qv1, qv2, qv3, 100]
-#     for _l in _list:
-#         result = f'{param}\n{str(_l)}\n'
-#         _num = data.index[data[param] == _l].tolist()[:5]
-#         result += print_result(_num)
-#         to_text(f'save_plot/quantiles.txt', result)
-#
-#
-# get_product_near_quantiles()
-# process_data(param)
-
 p = ProcessDataset(preprocess_data_path)
-p.process_data()
+p.gen_full_data_set_pair_plot()
+
 '''
 Se représenter les données en revenant à quelque chose de simple/schematique
 
